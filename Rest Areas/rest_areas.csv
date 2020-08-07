@@ -1,0 +1,1136 @@
+Interstate,State,Rest Area,Rest Area Type,Count
+5,California,Exit 786 – Yreka,Rest Area,0
+5,California,Exit 753 – Weed,Rest Area (southbound),1
+5,California,Exit 753 – Weed,Rest Area (northbound),2
+5,California,Mile Marker 705 – Lakehead,Rest Area (southbound),3
+5,California,Mile Marker 694 – O’Brien,Rest Area (northbound),4
+5,California,Exit 667 – Anderson,Welcome Center,5
+5,California,Mile Marker 655 – Red Bluff,Rest Area (southbound),6
+5,California,Mile Marker 653 – Red Bluff,Rest Area (northbound),7
+5,California,Mile Marker 632 – Corning,Rest Area (southbound),8
+5,California,Mile Marker 632 – Corning,Rest Area (northbound),9
+5,California,Mile Marker 608 – Willows,Rest Area (southbound),10
+5,California,Mile Marker 608 – Willows,Rest Area (northbound),11
+5,California,Mile Marker 583 – Maxwell,Rest Area (southbound),12
+5,California,Mile Marker 583 – Maxwell,Rest Area (northbound),13
+5,California,Mile Marker 556 – Dunnigan,Rest Area (southbound),14
+5,California,Mile Marker 556 – Dunnigan,Rest Area (northbound),15
+5,California,Mile Marker 529 – Sacramento,Rest Area (southbound),16
+5,California,Mile Marker 445 – Westley,Rest Area (southbound),17
+5,California,Mile Marker 445 – Westley,Rest Area (northbound),18
+5,California,Mile Marker 384 – Firebaugh,Rest Area (southbound),19
+5,California,Mile Marker 384 – Firebaugh,Rest Area (northbound),20
+5,California,Mile Marker 320 – Huron,Rest Area (southbound),21
+5,California,Mile Marker 320 – Huron,Rest Area (northbound),22
+5,California,Mile Marker 259 – Buttonwillow,Rest Area (southbound),23
+5,California,Mile Marker 259 – Buttonwillow,Rest Area (northbound),24
+5,California,Mile Marker 206 – Lebec,Rest Area (southbound),25
+5,California,Mile Marker 206 – Lebec,Rest Area (northbound),26
+5,California,Mile Marker 60 – Oceanside,Rest Area (southbound),27
+5,California,Mile Marker 60 – Oceanside,Rest Area (northbound),28
+5,California,Exit 54b – Oceanside,Welcome Center (southbound),29
+5,California,Exit 54a – Oceanside,Welcome Center (northbound),30
+5,Oregon,Mile Marker 281 – Wilsonville,Rest Area (southbound),31
+5,Oregon,Mile Marker 281 – Wilsonville,Rest Area (northbound),32
+5,Oregon,Mile Marker 240 – Albany,Rest Area (southbound),33
+5,Oregon,Mile Marker 240 – Albany,Rest Area (northbound),34
+5,Oregon,Mile Marker 206 – Harrisburg,Rest Area (southbound),35
+5,Oregon,Mile Marker 206 – Harrisburg,Rest Area (northbound),36
+5,Oregon,Mile Marker 178 – Cottage Grove,Rest Area (southbound),37
+5,Oregon,Mile Marker 178 – Cottage Grove,Rest Area (northbound),38
+5,Oregon,Mile Marker 144 – Oakland,Rest Area (southbound),39
+5,Oregon,Mile Marker 143 – Oakland,Rest Area (northbound),40
+5,Oregon,Exit 99 – Canyonville,Rest Area,41
+5,Oregon,Mile Marker 63 – Grants Pass,Rest Area (southbound),42
+5,Oregon,Mile Marker 63 – Grants Pass,Rest Area (northbound),43
+5,Oregon,Exit 45b – Gold Hill,Rest Area,44
+5,Oregon,Mile Marker 22 – Talent,Rest Area (southbound),45
+5,Oregon,Mile Marker 12 – Ashland,Welcome Center (northbound),46
+5,Washington,Mile Marker 269 – Custer,Rest Area (southbound),47
+5,Washington,Mile Marker 267 – Custer,Rest Area (northbound),48
+5,Washington,Mile Marker 238 – Bow,Rest Area (southbound),49
+5,Washington,Mile Marker 238 – Bow,Rest Area (northbound),50
+5,Washington,Mile Marker 207 – Lakewood,Rest Area (southbound),51
+5,Washington,Mile Marker 207 – Lakewood,Rest Area (northbound),52
+5,Washington,Mile Marker 188 – Everett,Rest Area (southbound),53
+5,Washington,Mile Marker 140 – Federal Way,Rest Area (northbound),54
+5,Washington,Mile Marker 93 – Maytown,Rest Area (southbound),55
+5,Washington,Mile Marker 90 – Rochester,Rest Area (northbound),56
+5,Washington,Mile Marker 54 – Castle Rock,Rest Area (southbound),57
+5,Washington,Mile Marker 54 – Castle Rock,Rest Area (northbound),58
+5,Washington,Mile Marker 12 – Ridgefield,Rest Area (southbound),59
+5,Washington,Mile Marker 11 – Ridgefield,Rest Area (northbound),60
+8,Arizona,Mile Marker 84 – Sentinel,Rest Area (westbound),0
+8,Arizona,Mile Marker 83 – Sentinel,Rest Area (eastbound),1
+8,Arizona,Mile Marker 56 – Mohawk,Rest Area (westbound),2
+8,Arizona,Mile Marker 56 – Mohawk,Rest Area (eastbound),3
+8,California,Mile Marker 155 – Winterhaven,Rest Area (westbound),4
+8,California,Mile Marker 155 – Winterhaven,Rest Area (eastbound),5
+8,California,Mile Marker 108 – El Centro,Rest Area (westbound),6
+8,California,Mile Marker 108 – El Centro,Rest Area (eastbound),7
+8,California,Exit 51 – Pine Valley,Rest Area,8
+10,Alabama,Mile Marker 65 – Seminole,Welcome Center (westbound),0
+10,Alabama,Mile Marker 0.7 – Grand Bay,Welcome Center (eastbound),1
+10,Arizona,Mile Marker 388 – San Simon,Rest Area (westbound),2
+10,Arizona,Mile Marker 388 – San Simon,Rest Area (eastbound),3
+10,Arizona,Mile Marker 320 – Dragoon,Rest Area (westbound),4
+10,Arizona,Mile Marker 320 – Dragoon,Rest Area (eastbound),5
+10,Arizona,Mile Marker 183 – Sacaton,Rest Area (westbound),6
+10,Arizona,Mile Marker 181 – Sacaton,Rest Area (eastbound),7
+10,Arizona,Mile Marker 86 – Tonopah,Rest Area (westbound),8
+10,Arizona,Mile Marker 86 – Tonopah,Rest Area (eastbound),9
+10,Arizona,Mile Marker 52 – Salome,Rest Area (westbound),10
+10,Arizona,Mile Marker 52 – Salome,Rest Area (eastbound),11
+10,Arizona,Mile Marker 4 – Quartzsite,Rest Area (westbound),12
+10,Arizona,Mile Marker 4 – Quartzsite,Rest Area (eastbound),13
+10,California,Exit 222 – Blythe,Rest Area,14
+10,California,Mile Marker 159 – Indio,Rest Area (westbound),15
+10,California,Mile Marker 159 – Indio,Rest Area (eastbound),16
+10,California,Mile Marker 113 – Whitewater,Rest Area (westbound),17
+10,California,Mile Marker 113 – Whitewater,Rest Area (eastbound),18
+10,California,Mile Marker 91 – Beaumont,Rest Area (westbound),19
+10,California,Mile Marker 86 – Redlands,Rest Area (eastbound),20
+10,Florida,Mile Marker 318 – Lake City,Rest Area (westbound),21
+10,Florida,Mile Marker 318 – Lake City,Rest Area (eastbound),22
+10,Florida,Mile Marker 295 – Lake City,Rest Area (westbound),23
+10,Florida,Mile Marker 294 – Lake City,Rest Area (eastbound),24
+10,Florida,Mile Marker 265 – Lee,Rest Area (westbound),25
+10,Florida,Mile Marker 265 – Lee,Rest Area (eastbound),26
+10,Florida,Mile Marker 233 – Monticello,Rest Area (westbound),27
+10,Florida,Mile Marker 233 – Monticello,Rest Area (eastbound),28
+10,Florida,Mile Marker 194 – Tallahassee,Rest Area (westbound),29
+10,Florida,Mile Marker 194 – Tallahassee,Rest Area (eastbound),30
+10,Florida,Mile Marker 162 – Quincy,Rest Area (westbound),31
+10,Florida,Mile Marker 162 – Quincy,Rest Area (eastbound),32
+10,Florida,Mile Marker 133 – Cottondale,Rest Area (westbound),33
+10,Florida,Mile Marker 133 – Cottondale,Rest Area (eastbound),34
+10,Florida,Exit 96 – Ponce de Leon,Rest Area,35
+10,Florida,Mile Marker 59 – Crestview,Rest Area (westbound),36
+10,Florida,Mile Marker 59 – Crestview,Rest Area (eastbound),37
+10,Florida,Mile Marker 29 – Milton,Rest Area (westbound),38
+10,Florida,Mile Marker 29 – Milton,Rest Area (eastbound),39
+10,Florida,Mile Marker 4 – Pensacola,Welcome Center (eastbound),40
+10,Louisiana,Mile Marker 270 – Slidell,Welcome Center (westbound),41
+10,Louisiana,Exit 121 – Breaux Bridge,Welcome Center,42
+10,Louisiana,Mile Marker 1 – Vinton,Welcome Center (eastbound),43
+10,Mississippi,Mile Marker 75 – Moss Point,Welcome Center (westbound),44
+10,Mississippi,Mile Marker 63 – Gautier,Rest Area (westbound),45
+10,Mississippi,Mile Marker 63 – Gautier,Rest Area (eastbound),46
+10,Mississippi,Exit 2 – Pearlington,Welcome Center,47
+10,New Mexico,Mile Marker 164 – Anthony,Welcome Center (westbound),48
+10,New Mexico,Mile Marker 135 – Las Cruces,Rest Area (eastbound),49
+10,New Mexico,Mile Marker 61 – Deming,Rest Area (westbound),50
+10,New Mexico,Mile Marker 53 – Deming,Rest Area (eastbound),51
+10,New Mexico,Exit 20 – Lordsburg,Welcome Center,52
+10,Texas,Exit 880 – Orange,Welcome Center (westbound),53
+10,Texas,Mile Marker 692 – Columbus,Rest Area (westbound),54
+10,Texas,Mile Marker 692 – Columbus,Rest Area (eastbound),55
+10,Texas,Mile Marker 619 – Seguin,Rest Area (westbound),56
+10,Texas,Mile Marker 618 – Seguin,Rest Area (eastbound),57
+10,Texas,Mile Marker 514 – Kerrville,Rest Area (westbound),58
+10,Texas,Mile Marker 514 – Kerrville,Rest Area (eastbound),59
+10,Texas,Mile Marker 394 – Sonora,Rest Area (westbound),60
+10,Texas,Mile Marker 394 – Sonora,Rest Area (eastbound),61
+10,Texas,Mile Marker 308 – Bakersfield,Rest Area (westbound),62
+10,Texas,Mile Marker 308 – Bakersfield,Rest Area (eastbound),63
+10,Texas,Mile Marker 233 – Fort Stockton,Rest Area (westbound),64
+10,Texas,Mile Marker 233 – Fort Stockton,Rest Area (eastbound),65
+10,Texas,Mile Marker 144 – Van Horn,Rest Area (westbound),66
+10,Texas,Mile Marker 144 – Van Horn,Rest Area (eastbound),67
+10,Texas,Mile Marker 51 – Fabens,Rest Area (westbound),68
+10,Texas,Mile Marker 50 – Fabens,Rest Area (eastbound),69
+10,Texas,Exit 1 – Anthony,Welcome Center (eastbound),70
+15,California,Mile Marker 270 – Nipton,Rest Area (southbound),0
+15,California,Mile Marker 270 – Nipton,Rest Area (northbound),1
+15,California,Mile Marker 217 – Barstow,Rest Area (southbound),2
+15,California,Mile Marker 217 – Barstow,Rest Area (northbound),3
+15,California,Exit 178 – Lenwood,Welcome Center,4
+15,Idaho,Exit 167 – Dubois,Rest Area,5
+15,Idaho,Mile Marker 101 – Blackfoot,Rest Area (southbound),6
+15,Idaho,Mile Marker 101 – Blackfoot,Rest Area (northbound),7
+15,Idaho,Mile Marker 59 – Inkom,Rest Area (southbound),8
+15,Idaho,Mile Marker 59 – Inkom,Rest Area (northbound),9
+15,Idaho,Mile Marker 25 – Downey,Rest Area (southbound),10
+15,Idaho,Mile Marker 7 – Malad City,Welcome Center (northbound),11
+15,Montana,Exit 397 – Sweetgrass,Rest Area,12
+15,Montana,Mile Marker 318 – Dutton,Rest Area (southbound),13
+15,Montana,Mile Marker 318 – Dutton,Rest Area (northbound),14
+15,Montana,Mile Marker 239 – Wolf Creek,Rest Area (southbound),15
+15,Montana,Mile Marker 239 – Wolf Creek,Rest Area (northbound),16
+15,Montana,Mile Marker 178 – Jefferson City,Rest Area (southbound),17
+15,Montana,Mile Marker 177 – Jefferson City,Rest Area (northbound),18
+15,Montana,Mile Marker 108 – Divide,Rest Area (southbound),19
+15,Montana,Mile Marker 108 – Divide,Rest Area (northbound),20
+15,Nevada,Exit 122 – Mesquite,Welcome Center,21
+15,Nevada,Exit 12 – Primm,Welcome Center,22
+15,Utah,Mile Marker 369 – Brigham City,Welcome Center (southbound),23
+15,Utah,Mile Marker 363 – Perry,Rest Area (northbound),24
+15,Utah,Exit 261 – Springville,Rest Area,25
+15,Utah,Exit 188 – Scipio,Rest Area,26
+15,Utah,Exit 167 – Fillmore,Rest Area,27
+15,Utah,Exit 135 – Cove Fort,Rest Area,28
+15,Utah,Exit 112 – Beaver,Rest Area,29
+15,Utah,Mile Marker 88 – Paragonah,Rest Area (southbound),30
+15,Utah,Mile Marker 88 – Paragonah,Rest Area (northbound),31
+15,Utah,Mile Marker 45 – Kanarraville,Rest Area (southbound),32
+15,Utah,Mile Marker 45 – Kanarraville,Rest Area (northbound),33
+15,Utah,Mile Marker 2 – Saint George,Welcome Center (northbound),34
+20,Alabama,Mile Marker 213 – Heflin,Welcome Center (westbound),0
+20,Alabama,Mile Marker 84 – Cottondale,Rest Area (westbound),1
+20,Alabama,Mile Marker 84 – Cottondale,Rest Area (eastbound),2
+20,Alabama,Mile Marker 39 – Eutaw,Rest Area (westbound),3
+20,Alabama,Mile Marker 38 – Eutaw,Rest Area (eastbound),4
+20,Alabama,Mile Marker 0.4 – Cuba,Welcome Center (eastbound),5
+20,Georgia,Mile Marker 201 – Augusta,Welcome Center (westbound),6
+20,Georgia,Mile Marker 182 – Harlem,Rest Area (westbound),7
+20,Georgia,Mile Marker 182 – Harlem,Rest Area (eastbound),8
+20,Georgia,Mile Marker 108 – Rutledge,Rest Area (westbound),9
+20,Georgia,Mile Marker 103 – Rutledge,Rest Area (eastbound),10
+20,Georgia,Mile Marker 1 – Tallapoosa,Welcome Center (eastbound),11
+20,Louisiana,Mile Marker 184 – Tallulah,Welcome Center (westbound),12
+20,Louisiana,Mile Marker 97 – Choudrant,Rest Area (westbound),13
+20,Louisiana,Mile Marker 95 – Choudrant,Rest Area (eastbound),14
+20,Louisiana,Mile Marker 2 – Greenwood,Welcome Center (eastbound),15
+20,Mississippi,Mile Marker 164 – Toomsuba,Welcome Center (westbound),16
+20,Mississippi,Mile Marker 90 – Forest,Rest Area (eastbound),17
+20,Mississippi,Mile Marker 75 – Morton,Rest Area (westbound),18
+20,Mississippi,Exit 1a – Vicksburg,Welcome Center,19
+20,South Carolina,Mile Marker 93 – Lugoff,Rest Area (westbound),20
+20,South Carolina,Mile Marker 93 – Lugoff,Rest Area (eastbound),21
+20,South Carolina,Mile Marker 0.5 – North Augusta,Welcome Center (eastbound),22
+20,Texas,Mile Marker 635 – Waskom,Welcome Center (westbound),23
+20,Texas,Mile Marker 538 – Van,Rest Area (westbound),24
+20,Texas,Mile Marker 538 – Van,Rest Area (eastbound),25
+20,Texas,Mile Marker 390 – Santo,Rest Area (westbound),26
+20,Texas,Mile Marker 390 – Santo,Rest Area (eastbound),27
+20,Texas,Mile Marker 359 – Ranger,Rest Area (westbound),28
+20,Texas,Mile Marker 353 – Ranger,Rest Area (eastbound),29
+20,Texas,Mile Marker 296 – Abilene,Rest Area (westbound),30
+20,Texas,Mile Marker 296 – Abilene,Rest Area (eastbound),31
+20,Texas,Mile Marker 256 – Trent,Rest Area (westbound),32
+20,Texas,Mile Marker 256 – Trent,Rest Area (eastbound),33
+20,Texas,Mile Marker 204 – Westbrook,Rest Area (westbound),34
+20,Texas,Mile Marker 191 – Coahoma,Rest Area (eastbound),35
+20,Texas,Mile Marker 69 – Pyote,Rest Area (westbound),36
+20,Texas,Mile Marker 69 – Pyote,Rest Area (eastbound),37
+24,Illinois,Exit 37 – Metropolis,Welcome Center,0
+24,Kentucky,Mile Marker 93 – Trenton,Welcome Center (westbound),1
+24,Kentucky,Exit 7 – Paducah,Welcome Center,2
+24,Tennessee,Mile Marker 171 – Chattanooga,Welcome Center (eastbound),3
+24,Tennessee,Mile Marker 160 – Jasper,Welcome Center (westbound),4
+24,Tennessee,Mile Marker 160 – Jasper,Rest Area (eastbound),5
+24,Tennessee,Mile Marker 133 – Monteagle,Rest Area (westbound),6
+24,Tennessee,Mile Marker 133 – Monteagle,Rest Area (eastbound),7
+24,Tennessee,Mile Marker 0.5 – Clarksville,Welcome Center (eastbound),8
+25,Colorado,Exit 268 – Fort Collins,Welcome Center,0
+25,Colorado,Mile Marker 115 – Pueblo,Rest Area (northbound),1
+25,Colorado,Mile Marker 112 – Pueblo,Rest Area (southbound),2
+25,Colorado,Exit 74 – Pueblo,Rest Area,3
+25,Colorado,Exit 18 – Trinidad,Rest Area,4
+25,Colorado,Exit 13b – Trinidad,Welcome Center,5
+25,New Mexico,Exit 451 – Raton,Welcome Center,6
+25,New Mexico,Mile Marker 434 – Maxwell,Rest Area (southbound),7
+25,New Mexico,Mile Marker 434 – Maxwell,Rest Area (northbound),8
+25,New Mexico,Mile Marker 376 – Watrous,Rest Area (southbound),9
+25,New Mexico,Mile Marker 374 – Watrous,Rest Area (northbound),10
+25,New Mexico,Mile Marker 269 – Santa Fe,Rest Area (northbound),11
+25,New Mexico,Mile Marker 167 – San Acacia,Rest Area (southbound),12
+25,New Mexico,Mile Marker 167 – San Acacia,Rest Area (northbound),13
+25,New Mexico,Mile Marker 114 – Socorro,Rest Area (southbound),14
+25,New Mexico,Mile Marker 114 – Socorro,Rest Area (northbound),15
+25,New Mexico,Mile Marker 23 – Rincon,Rest Area (southbound),16
+25,New Mexico,Mile Marker 23 – Rincon,Rest Area (northbound),17
+25,Wyoming,Exit 254 – Kaycee,Rest Area,18
+25,Wyoming,Exit 126 – Orin,Rest Area,19
+25,Wyoming,Exit 92 – Wheatland,Rest Area,20
+25,Wyoming,Exit 54 – Chugwater,Rest Area,21
+25,Wyoming,Exit 7 – Cheyenne,Welcome Center,22
+26,North Carolina,Mile Marker 67 – Columbus,Welcome Center (westbound),0
+26,North Carolina,Mile Marker 41 – Fletcher,Rest Area (westbound),1
+26,North Carolina,Mile Marker 41 – Fletcher,Rest Area (eastbound),2
+26,North Carolina,Mile Marker 6 – Mars Hill,Welcome Center (eastbound),3
+26,South Carolina,Mile Marker 204 – Ladson,Rest Area (eastbound),4
+26,South Carolina,Mile Marker 152 – Orangeburg,Rest Area (westbound),5
+26,South Carolina,Mile Marker 150 – Orangeburg,Rest Area (eastbound),6
+26,South Carolina,Mile Marker 123 – Gaston,Rest Area (westbound),7
+26,South Carolina,Mile Marker 123 – Gaston,Rest Area (eastbound),8
+26,South Carolina,Mile Marker 63 – Kinards,Rest Area (westbound),9
+26,South Carolina,Mile Marker 63 – Kinards,Rest Area (eastbound),10
+26,South Carolina,Mile Marker 3 – Landrum,Welcome Center (eastbound),11
+26,Tennessee,Exit 46 – Erwin,Welcome Center,12
+29,Iowa,Exit 149 – Sioux City,Welcome Center,0
+29,Iowa,Mile Marker 139 – Sergeant Bluff,Welcome Center (southbound),1
+29,Iowa,Mile Marker 139 – Sergeant Bluff,Rest Area (northbound),2
+29,Iowa,Mile Marker 110 – Onawa,Rest Area (southbound),3
+29,Iowa,Mile Marker 110 – Onawa,Rest Area (northbound),4
+29,Iowa,Mile Marker 80 – Missouri Valley,Rest Area (southbound),5
+29,Iowa,Mile Marker 78 – Missouri Valley,Rest Area (northbound),6
+29,Iowa,Mile Marker 38 – Pacific Junction,Rest Area (southbound),7
+29,Iowa,Mile Marker 38 – Pacific Junction,Rest Area (northbound),8
+29,Missouri,Mile Marker 108 – Rock Port,Welcome Center (southbound),9
+29,Missouri,Mile Marker 27 – Dearborn,Rest Area (southbound),10
+29,Missouri,Mile Marker 27 – Dearborn,Rest Area (northbound),11
+29,North Dakota,Mile Marker 179 – Grafton,Rest Area (southbound),12
+29,North Dakota,Mile Marker 179 – Grafton,Rest Area (northbound),13
+29,North Dakota,Mile Marker 99 – Hillsboro,Rest Area (southbound),14
+29,North Dakota,Mile Marker 99 – Hillsboro,Rest Area (northbound),15
+29,North Dakota,Mile Marker 3 – Hankinson,Welcome Center (northbound),16
+29,South Dakota,Mile Marker 251 – New Effington,Welcome Center (southbound),17
+29,South Dakota,Exit 213 – Summit,Rest Area,18
+29,South Dakota,Exit 121 – Brookings,Rest Area,19
+29,South Dakota,Exit 26 – Vermillion,Welcome Center,20
+30,Arkansas,Mile Marker 93 – Social Hill,Rest Area (westbound),0
+30,Arkansas,Mile Marker 93 – Social Hill,Rest Area (eastbound),1
+30,Arkansas,Mile Marker 56 – Gurdon,Rest Area (westbound),2
+30,Arkansas,Mile Marker 56 – Gurdon,Rest Area (eastbound),3
+30,Arkansas,Mile Marker 7 – Texarkana,Welcome Center (eastbound),4
+30,Texas,Mile Marker 223 – Texarkana,Welcome Center (westbound),5
+30,Texas,Mile Marker 143 – Mount Vernon,Rest Area (westbound),6
+30,Texas,Mile Marker 143 – Mount Vernon,Rest Area (eastbound),7
+30,Texas,Mile Marker 111 – Cumby,Rest Area (westbound),8
+30,Texas,Mile Marker 111 – Cumby,Rest Area (eastbound),9
+35,Iowa,Exit 214 – Northwood,Welcome Center,0
+35,Iowa,Exit 159 – Dows,Rest Area,1
+35,Iowa,Mile Marker 120 – Story City,Rest Area (northbound),2
+35,Iowa,Mile Marker 119 – Story City,Rest Area (southbound),3
+35,Iowa,Mile Marker 100 – Cambridge,Rest Area (southbound),4
+35,Iowa,Mile Marker 100 – Cambridge,Rest Area (northbound),5
+35,Iowa,Mile Marker 33 – Osceola,Rest Area (southbound),6
+35,Iowa,Mile Marker 33 – Osceola,Rest Area (northbound),7
+35,Iowa,Mile Marker 7 – Lamoni,Welcome Center (southbound),8
+35,Iowa,Mile Marker 7 – Lamoni,Welcome Center (northbound),9
+35,Iowa,Exit 4 – Lamoni,Welcome Center,10
+35,Kansas,Mile Marker 175 – Williamsburg,Rest Area (southbound),11
+35,Kansas,Mile Marker 175 – Williamsburg,Rest Area (northbound),12
+35,Minnesota,Exit 249 – Duluth,Welcome Center,13
+35,Minnesota,Mile Marker 208 – Willow River,Rest Area (southbound),14
+35,Minnesota,Mile Marker 198 – Sandstone,Rest Area (northbound),15
+35,Minnesota,Mile Marker 154 – Harris,Rest Area (northbound),16
+35,Minnesota,Mile Marker 131 – Forest Lake,Rest Area (southbound),17
+35,Minnesota,Mile Marker 75 – Elko,Rest Area (southbound),18
+35,Minnesota,Mile Marker 68 – Faribault,Rest Area (northbound),19
+35,Minnesota,Mile Marker 35 – Owatonna,Rest Area (southbound),20
+35,Minnesota,Mile Marker 35 – Owatonna,Rest Area (northbound),21
+35,Minnesota,Mile Marker 1 – Albert Lea,Welcome Center (northbound),22
+35,Missouri,Mile Marker 81 – Coffey,Rest Area (southbound),23
+35,Missouri,Mile Marker 81 – Coffey,Rest Area (northbound),24
+35,Missouri,Mile Marker 35 – Holt,Rest Area (southbound),25
+35,Missouri,Mile Marker 34 – Holt,Rest Area (northbound),26
+35,Oklahoma,Mile Marker 225 – Blackwell,Welcome Center (southbound),27
+35,Oklahoma,Mile Marker 225 – Blackwell,Rest Area (northbound),28
+35,Oklahoma,Mile Marker 59 – Davis,Rest Area (southbound),29
+35,Oklahoma,Mile Marker 59 – Davis,Rest Area (northbound),30
+35,Oklahoma,Mile Marker 3 – Thackerville,Welcome Center (northbound),31
+35,Texas,Mile Marker 502 – Gainesville,Welcome Center (southbound),32
+35,Texas,Mile Marker 362 – Hillsboro,Rest Area (southbound),33
+35,Texas,Mile Marker 362 – Hillsboro,Rest Area (northbound),34
+35,Texas,Mile Marker 282 – Salado,Rest Area (southbound),35
+35,Texas,Mile Marker 281 – Salado,Rest Area (northbound),36
+35,Texas,Mile Marker 130 – Natalia,Rest Area (southbound),37
+35,Texas,Mile Marker 130 – Natalia,Rest Area (northbound),38
+35,Texas,Exit 18 – Laredo,Welcome Center,39
+40,Arizona,Exit 359 – Lupton,Welcome Center,0
+40,Arizona,Mile Marker 235 – Winslow,Rest Area (westbound),1
+40,Arizona,Mile Marker 235 – Winslow,Rest Area (eastbound),2
+40,Arizona,Mile Marker 23 – Yucca,Rest Area (westbound),3
+40,Arizona,Mile Marker 23 – Yucca,Rest Area (eastbound),4
+40,Arkansas,Exit 278 – West Memphis,Welcome Center,5
+40,Arkansas,Mile Marker 242 – Forrest City,Rest Area (westbound),6
+40,Arkansas,Mile Marker 235 – Forrest City,Rest Area (eastbound),7
+40,Arkansas,Mile Marker 199 – White River,Rest Area (westbound),8
+40,Arkansas,Mile Marker 199 – White River,Rest Area (eastbound),9
+40,Arkansas,Mile Marker 72 – Big Piney,Rest Area (westbound),10
+40,Arkansas,Mile Marker 67 – Knoxville,Rest Area (eastbound),11
+40,Arkansas,Mile Marker 36 – Ozark,Rest Area (westbound),12
+40,Arkansas,Mile Marker 35 – Ozark,Rest Area (eastbound),13
+40,Arkansas,Mile Marker 2 – Van Buren,Welcome Center (eastbound),14
+40,California,Mile Marker 106 – Essex,Rest Area (westbound),15
+40,California,Mile Marker 106 – Essex,Rest Area (eastbound),16
+40,California,Mile Marker 28 – Newberry Springs,Rest Area (westbound),17
+40,California,Mile Marker 28 – Newberry Springs,Rest Area (eastbound),18
+40,New Mexico,Mile Marker 373 – Bard,Welcome Center (westbound),19
+40,New Mexico,Mile Marker 302 – Newkirk,Rest Area (westbound),20
+40,New Mexico,Mile Marker 302 – Newkirk,Rest Area (eastbound),21
+40,New Mexico,Mile Marker 252 – Santa Rosa,Rest Area (westbound),22
+40,New Mexico,Mile Marker 252 – Santa Rosa,Rest Area (eastbound),23
+40,New Mexico,Mile Marker 207 – Moriarty,Rest Area (westbound),24
+40,New Mexico,Mile Marker 207 – Moriarty,Rest Area (eastbound),25
+40,New Mexico,Exit 102 – Acomita,Rest Area,26
+40,New Mexico,Mile Marker 3 – Gallup,Welcome Center (eastbound),27
+40,North Carolina,Exit 364 – Warsaw,Rest Area,28
+40,North Carolina,Mile Marker 324 – Benson,Rest Area (westbound),29
+40,North Carolina,Mile Marker 324 – Benson,Rest Area (eastbound),30
+40,North Carolina,Mile Marker 139 – Burlington,Rest Area (westbound),31
+40,North Carolina,Mile Marker 139 – Burlington,Rest Area (eastbound),32
+40,North Carolina,Mile Marker 177 – Clemmons,Rest Area (westbound),33
+40,North Carolina,Mile Marker 177 – Clemmons,Rest Area (eastbound),34
+40,North Carolina,Mile Marker 136 – Claremont,Rest Area (westbound),35
+40,North Carolina,Mile Marker 136 – Claremont,Rest Area (eastbound),36
+40,North Carolina,Mile Marker 82 – Marion,Rest Area (westbound),37
+40,North Carolina,Mile Marker 82 – Marion,Rest Area (eastbound),38
+40,North Carolina,Mile Marker 10 – Waterville Lake,Rest Area (westbound),39
+40,North Carolina,Mile Marker 10 – Waterville Lake,Welcome Center (eastbound),40
+40,Oklahoma,Mile Marker 316 – Sallisaw,Rest Area (eastbound),41
+40,Oklahoma,Mile Marker 314 – Sallisaw,Welcome Center (westbound),42
+40,Oklahoma,Mile Marker 197 – Shawnee,Rest Area (westbound),43
+40,Oklahoma,Mile Marker 197 – Shawnee,Rest Area (eastbound),44
+40,Oklahoma,Mile Marker 9 – Erick,Welcome Center (eastbound),45
+40,Tennessee,Mile Marker 446 – Hartford,Welcome Center (westbound),46
+40,Tennessee,Mile Marker 425 – Dandridge,Rest Area (westbound),47
+40,Tennessee,Mile Marker 420 – Dandridge,Rest Area (eastbound),48
+40,Tennessee,Mile Marker 326 – Crab Orchard,Rest Area (westbound),49
+40,Tennessee,Mile Marker 324 – Crab Orchard,Rest Area (eastbound),50
+40,Tennessee,Mile Marker 267 – Buffalo Valley,Welcome Center (westbound),51
+40,Tennessee,Mile Marker 267 – Buffalo Valley,Welcome Center (eastbound),52
+40,Tennessee,Mile Marker 170 – Dickson,Rest Area (westbound),53
+40,Tennessee,Mile Marker 170 – Dickson,Rest Area (eastbound),54
+40,Tennessee,Mile Marker 131 – Holladay,Rest Area (westbound),55
+40,Tennessee,Mile Marker 130 – Holladay,Rest Area (eastbound),56
+40,Tennessee,Mile Marker 73 – Jackson,Rest Area (westbound),57
+40,Tennessee,Mile Marker 73 – Jackson,Rest Area (eastbound),58
+40,Tennessee,Mile Marker 44 – Stanton,Welcome Center (westbound),59
+40,Tennessee,Exit 1 – Memphis,Welcome Center,60
+40,Texas,Mile Marker 131 – Alanreed,Rest Area (westbound),61
+40,Texas,Mile Marker 129 – Alanreed,Rest Area (eastbound),62
+40,Texas,Mile Marker 76 – Amarillo,Welcome Center (westbound),63
+40,Texas,Mile Marker 76 – Amarillo,Welcome Center (eastbound),64
+44,Missouri,Mile Marker 235 – Saint Clair,Rest Area (westbound),0
+44,Missouri,Mile Marker 235 – Saint Clair,Rest Area (eastbound),1
+44,Missouri,Mile Marker 110 – Conway,Welcome Center (westbound),2
+44,Missouri,Mile Marker 110 – Conway,Welcome Center (eastbound),3
+44,Missouri,Mile Marker 52 – Mount Vernon,Rest Area (westbound),4
+44,Missouri,Mile Marker 52 – Mount Vernon,Rest Area (eastbound),5
+44,Missouri,Mile Marker 2 – Joplin,Welcome Center (eastbound),6
+44,Oklahoma,Mile Marker 314 – Miami,Welcome Center (westbound),7
+44,Texas,Exit 1c – Wichita Falls,Welcome Center,8
+45,Texas,Mile Marker 216 – Richland,Rest Area (southbound),0
+45,Texas,Mile Marker 216 – Richland,Rest Area (northbound),1
+45,Texas,Mile Marker 125 – Huntsville,Rest Area (southbound),2
+45,Texas,Mile Marker 124 – Huntsville,Rest Area (northbound),3
+55,Arkansas,Mile Marker 68 – Blytheville,Welcome Center (southbound),0
+55,Illinois,Mile Marker 194 – Pontiac,Rest Area (southbound),1
+55,Illinois,Mile Marker 194 – Pontiac,Rest Area (northbound),2
+55,Illinois,Mile Marker 149 – McLean,Rest Area (southbound),3
+55,Illinois,Mile Marker 149 – McLean,Rest Area (northbound),4
+55,Illinois,Mile Marker 103 – Sherman,Rest Area (southbound),5
+55,Illinois,Mile Marker 102 – Springfield,Rest Area (northbound),6
+55,Illinois,Mile Marker 64 – Waggoner,Rest Area (southbound),7
+55,Illinois,Mile Marker 64 – Waggoner,Rest Area (northbound),8
+55,Illinois,Mile Marker 27 – Edwardsville,Rest Area (southbound),9
+55,Illinois,Mile Marker 27 – Edwardsville,Welcome Center (northbound),10
+55,Louisiana,Mile Marker 65 – Kentwood,Welcome Center (southbound),11
+55,Mississippi,Mile Marker 279 – Hernando,Welcome Center (southbound),12
+55,Mississippi,Mile Marker 276 – Hernando,Rest Area (northbound),13
+55,Mississippi,Mile Marker 239 – Courtland,Rest Area (southbound),14
+55,Mississippi,Mile Marker 239 – Courtland,Rest Area (northbound),15
+55,Mississippi,Mile Marker 173 – Vaiden,Rest Area (southbound),16
+55,Mississippi,Mile Marker 163 – West,Rest Area (northbound),17
+55,Mississippi,Mile Marker 54 – Wesson,Rest Area (southbound),18
+55,Mississippi,Mile Marker 54 – Wesson,Rest Area (northbound),19
+55,Mississippi,Mile Marker 3 – Magnolia,Welcome Center (northbound),20
+55,Missouri,Mile Marker 160 – Bloomsdale,Rest Area (northbound),21
+55,Missouri,Mile Marker 110 – Jackson,Rest Area (southbound),22
+55,Missouri,Mile Marker 110 – Jackson,Rest Area (northbound),23
+55,Missouri,Mile Marker 42 – Marston,Rest Area (southbound),24
+55,Missouri,Mile Marker 21 – Hayti,Welcome Center (northbound),25
+55,Tennessee,Mile Marker 3 – Memphis,Welcome Center (northbound),26
+57,Illinois,Mile Marker 332 – Monee,Welcome Center (southbound),0
+57,Illinois,Mile Marker 332 – Monee,Welcome Center (northbound),1
+57,Illinois,Mile Marker 268 – Loda,Rest Area (southbound),2
+57,Illinois,Mile Marker 268 – Loda,Rest Area (northbound),3
+57,Illinois,Mile Marker 222 – Pesotum,Rest Area (southbound),4
+57,Illinois,Mile Marker 222 – Pesotum,Rest Area (northbound),5
+57,Illinois,Mile Marker 165 – Effingham,Rest Area (southbound),6
+57,Illinois,Mile Marker 165 – Effingham,Rest Area (northbound),7
+57,Illinois,Mile Marker 114 – Salem,Rest Area (southbound),8
+57,Illinois,Mile Marker 114 – Salem,Rest Area (northbound),9
+57,Illinois,Mile Marker 79 – Whittington,Rest Area (southbound),10
+57,Illinois,Mile Marker 74 – Benton,Rest Area (northbound),11
+57,Illinois,Mile Marker 32 – Anna,Rest Area (southbound),12
+57,Illinois,Mile Marker 32 – Anna,Welcome Center (northbound),13
+59,Alabama,Mile Marker 240 – Valley Head,Welcome Center (southbound),0
+59,Alabama,Mile Marker 167 – Ashville,Rest Area (southbound),1
+59,Alabama,Mile Marker 165 – Ashville,Rest Area (northbound),2
+59,Alabama,Mile Marker 84 – Cottondale,Rest Area (southbound),3
+59,Alabama,Mile Marker 84 – Cottondale,Rest Area (northbound),4
+59,Alabama,Mile Marker 39 – Eutaw,Rest Area (southbound),5
+59,Alabama,Mile Marker 38 – Eutaw,Rest Area (northbound),6
+59,Alabama,Mile Marker 0.4 – Cuba,Welcome Center (northbound),7
+59,Louisiana,Mile Marker 1 – Pearl River,Welcome Center (southbound),8
+59,Mississippi,Mile Marker 164 – Toomsuba,Welcome Center (southbound),9
+59,Mississippi,Mile Marker 3 – Picayune,Welcome Center (northbound),10
+64,Illinois,Mile Marker 130 – Grayville,Rest Area (westbound),0
+64,Illinois,Mile Marker 86 – Mount Vernon,Rest Area (westbound),1
+64,Illinois,Mile Marker 82 – Mount Vernon,Rest Area (eastbound),2
+64,Illinois,Mile Marker 25 – Mascoutah,Rest Area (westbound),3
+64,Illinois,Mile Marker 25 – Mascoutah,Rest Area (eastbound),4
+64,Indiana,Mile Marker 115 – Lanesville,Welcome Center (westbound),5
+64,Indiana,Mile Marker 58 – Dale,Rest Area (westbound),6
+64,Indiana,Mile Marker 58 – Dale,Rest Area (eastbound),7
+64,Indiana,Mile Marker 7 – Griffin,Welcome Center (eastbound),8
+64,Kentucky,Mile Marker 174 – Grayson,Rest Area (eastbound),9
+64,Kentucky,Mile Marker 173 – Grayson,Welcome Center (westbound),10
+64,Kentucky,Mile Marker 141 – Morehead,Rest Area (westbound),11
+64,Kentucky,Mile Marker 141 – Morehead,Rest Area (eastbound),12
+64,Kentucky,Mile Marker 108 – Mount Sterling,Rest Area (westbound),13
+64,Kentucky,Mile Marker 98 – Winchester,Rest Area (eastbound),14
+64,Kentucky,Mile Marker 60 – Midway,Rest Area (westbound),15
+64,Kentucky,Mile Marker 60 – Midway,Rest Area (eastbound),16
+64,Kentucky,Mile Marker 29 – Shelbyville,Welcome Center (eastbound),17
+64,Virginia,Mile Marker 213 – New Kent,Rest Area (westbound),18
+64,Virginia,Mile Marker 213 – New Kent,Welcome Center (eastbound),19
+64,Virginia,Mile Marker 169 – Goochland,Rest Area (eastbound),20
+64,Virginia,Mile Marker 169 – Goochland,Rest Area (westbound),21
+64,Virginia,Mile Marker 113 – Charlottesville,Rest Area (westbound),22
+64,Virginia,Mile Marker 105 – Afton,Rest Area (eastbound),23
+64,Virginia,Mile Marker 199 – Fairfield,Rest Area (westbound),24
+64,Virginia,Mile Marker 2 – Covington,Welcome Center (eastbound),25
+64,West Virginia,Mile Marker 179 – White Sulphur Springs,Welcome Center (westbound),26
+64,West Virginia,Mile Marker 69 – Burnwell,Rest Area (eastbound),27
+64,West Virginia,Mile Marker 35 – Hurricane,Rest Area (westbound),28
+64,West Virginia,Mile Marker 35 – Hurricane,Rest Area (eastbound),29
+64,West Virginia,Mile Marker 10 – Huntington,Welcome Center (eastbound),30
+65,Alabama,Mile Marker 363 – Ardmore,Welcome Center (southbound),0
+65,Alabama,Mile Marker 300 – Cullman,Rest Area (southbound),1
+65,Alabama,Mile Marker 300 – Cullman,Rest Area (northbound),2
+65,Alabama,Mile Marker 213 – Clanton,Rest Area (southbound),3
+65,Alabama,Mile Marker 213 – Clanton,Rest Area (northbound),4
+65,Alabama,Mile Marker 133 – Greenville,Rest Area (southbound),5
+65,Alabama,Mile Marker 133 – Greenville,Rest Area (northbound),6
+65,Alabama,Mile Marker 88 – Evergreen,Rest Area (southbound),7
+65,Alabama,Mile Marker 84 – Castleberry,Rest Area (northbound),8
+65,Indiana,Mile Marker 231 – Roselawn,Rest Area (southbound),9
+65,Indiana,Mile Marker 231 – Roselawn,Rest Area (northbound),10
+65,Indiana,Mile Marker 196 – Wolcott,Rest Area (southbound),11
+65,Indiana,Mile Marker 196 – Wolcott,Rest Area (northbound),12
+65,Indiana,Mile Marker 150 – Lebanon,Rest Area (southbound),13
+65,Indiana,Mile Marker 148 – Lebanon,Rest Area (northbound),14
+65,Indiana,Mile Marker 73 – Columbus,Rest Area (southbound),15
+65,Indiana,Mile Marker 73 – Columbus,Rest Area (northbound),16
+65,Indiana,Mile Marker 22 – Henryville,Welcome Center (southbound),17
+65,Indiana,Mile Marker 22 – Henryville,Welcome Center (northbound),18
+65,Kentucky,Mile Marker 113 – Shepherdsville,Welcome Center (southbound),19
+65,Kentucky,Mile Marker 60 – Munfordville,Rest Area (southbound),20
+65,Kentucky,Mile Marker 59 – Munfordville,Rest Area (northbound),21
+65,Kentucky,Mile Marker 1 – Franklin,Welcome Center (northbound),22
+65,Tennessee,Mile Marker 121 – Mitchellville,Welcome Center (southbound),23
+65,Tennessee,Mile Marker 3 – Ardmore,Welcome Center (northbound),24
+69,Indiana,Mile Marker 345 – Angola,Rest Area (southbound),0
+69,Indiana,Mile Marker 325 – Auburn,Rest Area (northbound),1
+69,Indiana,Mile Marker 251 – Gaston,Rest Area (southbound),2
+69,Indiana,Mile Marker 251 – Gaston,Rest Area (northbound),3
+69,Michigan,Mile Marker 272 – Port Huron,Welcome Center (southbound),4
+69,Michigan,Mile Marker 174 – Capac,Rest Area (southbound),5
+69,Michigan,Mile Marker 161 – Attica,Rest Area (northbound),6
+69,Michigan,Mile Marker 126 – Swartz Creek,Rest Area (northbound),7
+69,Michigan,Mile Marker 101 – Woodbury,Rest Area (southbound),8
+69,Michigan,Mile Marker 68 – Potterville,Rest Area (northbound),9
+69,Michigan,Mile Marker 41 – Marshall,Rest Area (southbound),10
+69,Michigan,Mile Marker 6 – Coldwater,Welcome Center (northbound),11
+70,Colorado,Mile Marker 437 – Burlington,Welcome Center (westbound),0
+70,Colorado,Exit 383 – Arriba,Rest Area,1
+70,Colorado,Mile Marker 332 – Deer Trail,Rest Area (westbound),2
+70,Colorado,Exit 190 – Frisco,Rest Area,3
+70,Colorado,Exit 163 – Edwards,Rest Area,4
+70,Colorado,Exit 129 – Glenwood Springs,Rest Area,5
+70,Colorado,Exit 125 – Glenwood Springs,Rest Area (eastbound),6
+70,Colorado,Exit 121 – Glenwood Springs,Rest Area,7
+70,Colorado,Exit 119 – Glenwood Springs,Rest Area,8
+70,Colorado,Mile Marker 115 – Glenwood Springs,Rest Area (eastbound),9
+70,Colorado,Exit 90 – Rifle,Rest Area,10
+70,Colorado,Exit 19 – Fruita,Welcome Center,11
+70,Illinois,Mile Marker 149 – Marshall,Welcome Center (westbound),12
+70,Illinois,Mile Marker 86 – Altamont,Rest Area (westbound),13
+70,Illinois,Mile Marker 86 – Altamont,Rest Area (eastbound),14
+70,Illinois,Mile Marker 27 – Highland,Rest Area (westbound),15
+70,Illinois,Mile Marker 27 – Highland,Welcome Center (eastbound),16
+70,Indiana,Mile Marker 143 – Centerville,Welcome Center (westbound),17
+70,Indiana,Mile Marker 107 – Greenfield,Rest Area (westbound),18
+70,Indiana,Mile Marker 107 – Greenfield,Rest Area (eastbound),19
+70,Indiana,Mile Marker 65 – Plainfield,Rest Area (westbound),20
+70,Indiana,Mile Marker 65 – Plainfield,Rest Area (eastbound),21
+70,Indiana,Mile Marker 1 – West Terre Haute,Welcome Center (eastbound),22
+70,Kansas,Mile Marker 336 – Paxico,Rest Area (westbound),23
+70,Kansas,Mile Marker 336 – Paxico,Rest Area (eastbound),24
+70,Kansas,Mile Marker 310 – Manhattan,Rest Area (westbound),25
+70,Kansas,Mile Marker 310 – Manhattan,Rest Area (eastbound),26
+70,Kansas,Mile Marker 265 – Solomon,Rest Area (westbound),27
+70,Kansas,Mile Marker 265 – Solomon,Rest Area (eastbound),28
+70,Kansas,Mile Marker 224 – Ellsworth,Rest Area (westbound),29
+70,Kansas,Mile Marker 224 – Ellsworth,Rest Area (eastbound),30
+70,Kansas,Mile Marker 132 – Ogallah,Rest Area (westbound),31
+70,Kansas,Mile Marker 132 – Ogallah,Rest Area (eastbound),32
+70,Kansas,Mile Marker 97 – Grainfield,Rest Area (westbound),33
+70,Kansas,Mile Marker 97 – Grainfield,Rest Area (eastbound),34
+70,Kansas,Mile Marker 48 – Colby,Rest Area (westbound),35
+70,Kansas,Mile Marker 48 – Colby,Rest Area (eastbound),36
+70,Kansas,Mile Marker 7 – Goodland,Rest Area (westbound),37
+70,Kansas,Mile Marker 7 – Goodland,Welcome Center (eastbound),38
+70,Maryland,Mile Marker 39 – Myersville,Welcome Center (westbound),39
+70,Maryland,Mile Marker 39 – Myersville,Welcome Center (eastbound),40
+70,Missouri,Mile Marker 198 – Wright City,Rest Area (westbound),41
+70,Missouri,Mile Marker 198 – Wright City,Rest Area (eastbound),42
+70,Missouri,Mile Marker 104 – Boonville,Rest Area (westbound),43
+70,Missouri,Mile Marker 104 – Boonville,Rest Area (eastbound),44
+70,Missouri,Mile Marker 57 – Concordia,Rest Area (westbound),45
+70,Missouri,Mile Marker 57 – Concordia,Rest Area (eastbound),46
+70,Ohio,Mile Marker 210 – Belmont,Welcome Center (westbound),47
+70,Ohio,Mile Marker 210 – Belmont,Rest Area (eastbound),48
+70,Ohio,Mile Marker 190 – Cambridge,Rest Area (eastbound),49
+70,Ohio,Mile Marker 163 – Zanesville,Rest Area (westbound),50
+70,Ohio,Mile Marker 131 – Buckeye Lake,Rest Area (westbound),51
+70,Ohio,Mile Marker 131 – Buckeye Lake,Rest Area (eastbound),52
+70,Ohio,Mile Marker 70 – Springfield,Rest Area (westbound),53
+70,Ohio,Mile Marker 70 – Springfield,Rest Area (eastbound),54
+70,Ohio,Mile Marker 2 – New Paris,Rest Area (westbound),55
+70,Ohio,Mile Marker 2 – New Paris,Welcome Center (eastbound),56
+70,Pennsylvania,Mile Marker 171 – Warfordsburg,Welcome Center (westbound),57
+70,Pennsylvania,Mile Marker 153 – Emmaville,Rest Area (eastbound),58
+70,Pennsylvania,Mile Marker 5 – Claysville,Welcome Center (eastbound),59
+70,Utah,Mile Marker 225 – Harley Dome,Rest Area (westbound),60
+70,Utah,Mile Marker 188 – Thompson,Welcome Center (westbound),61
+70,Utah,Mile Marker 180 – Crescent Junction,Rest Area (eastbound),62
+70,Utah,Mile Marker 144 – Green River,Rest Area (eastbound),63
+70,Utah,Mile Marker 141 – Green River,Rest Area (westbound),64
+70,Utah,Mile Marker 141 – Green River,Rest Area (eastbound),65
+70,Utah,Mile Marker 120 – Emery,Rest Area (westbound),66
+70,Utah,Mile Marker 120 – Emery,Rest Area (eastbound),67
+70,Utah,Exit 116 – Emery,Rest Area,68
+70,Utah,Mile Marker 114 – Emery,Rest Area (eastbound),69
+70,Utah,Mile Marker 102 – Emery,Rest Area (westbound),70
+70,Utah,Mile Marker 102 – Emery,Rest Area (eastbound),71
+70,Utah,Exit 86 – Fremont Junction,Rest Area,72
+70,West Virginia,Mile Marker 13 – Valley Grove,Welcome Center (westbound),73
+71,Kentucky,Mile Marker 177 – Walton,Welcome Center (southbound),0
+71,Kentucky,Mile Marker 177 – Walton,Rest Area (northbound),1
+71,Kentucky,Mile Marker 13 – Crestwood,Rest Area (southbound),2
+71,Kentucky,Mile Marker 13 – Crestwood,Rest Area (northbound),3
+71,Ohio,Mile Marker 224 – Brunswick,Rest Area (southbound),4
+71,Ohio,Mile Marker 224 – Brunswick,Rest Area (northbound),5
+71,Ohio,Mile Marker 197 – West Salem,Rest Area (southbound),6
+71,Ohio,Mile Marker 197 – West Salem,Rest Area (northbound),7
+71,Ohio,Mile Marker 129 – Columbus,Rest Area (southbound),8
+71,Ohio,Mile Marker 128 – Columbus,Rest Area (northbound),9
+71,Ohio,Mile Marker 67 – Jeffersonville,Rest Area (southbound),10
+71,Ohio,Mile Marker 67 – Jeffersonville,Rest Area (northbound),11
+71,Ohio,Mile Marker 33 – Lebanon,Welcome Center (southbound),12
+71,Ohio,Mile Marker 33 – Lebanon,Welcome Center (northbound),13
+74,Illinois,Mile Marker 208 – Oakwood,Welcome Center (westbound),0
+74,Illinois,Mile Marker 156 – Farmer City,Rest Area (westbound),1
+74,Illinois,Mile Marker 156 – Farmer City,Rest Area (eastbound),2
+74,Illinois,Mile Marker 114 – Congerville,Rest Area (westbound),3
+74,Illinois,Mile Marker 114 – Congerville,Rest Area (eastbound),4
+74,Illinois,Mile Marker 62 – Gilson,Rest Area (westbound),5
+74,Illinois,Mile Marker 62 – Gilson,Rest Area (eastbound),6
+74,Illinois,Mile Marker 30 – Alpha,Rest Area (westbound),7
+74,Illinois,Mile Marker 28 – Alpha,Rest Area (eastbound),8
+74,Indiana,Mile Marker 152 – Batesville,Rest Area (westbound),9
+74,Indiana,Mile Marker 152 – Batesville,Rest Area (eastbound),10
+74,Indiana,Mile Marker 57 – Lizton,Rest Area (westbound),11
+74,Indiana,Mile Marker 57 – Lizton,Rest Area (eastbound),12
+74,Indiana,Mile Marker 23 – Waynetown,Rest Area (westbound),13
+74,Indiana,Mile Marker 23 – Waynetown,Rest Area (eastbound),14
+74,Indiana,Mile Marker 1 – Covington,Welcome Center (eastbound),15
+75,Florida,Mile Marker 470 – Jennings,Welcome Center (southbound),0
+75,Florida,Mile Marker 413 – Lake City,Rest Area (southbound),1
+75,Florida,Mile Marker 413 – Lake City,Rest Area (northbound),2
+75,Florida,Mile Marker 382 – Micanopy,Rest Area (southbound),3
+75,Florida,Mile Marker 382 – Micanopy,Rest Area (northbound),4
+75,Florida,Mile Marker 346 – Ocala,Rest Area (southbound),5
+75,Florida,Mile Marker 346 – Ocala,Rest Area (northbound),6
+75,Florida,Mile Marker 307 – Bushnell,Rest Area (southbound),7
+75,Florida,Mile Marker 307 – Bushnell,Rest Area (northbound),8
+75,Florida,Mile Marker 278 – Wesley Chapel,Rest Area (southbound),9
+75,Florida,Mile Marker 278 – Wesley Chapel,Rest Area (northbound),10
+75,Florida,Mile Marker 238 – Ruskin,Rest Area (southbound),11
+75,Florida,Mile Marker 238 – Ruskin,Rest Area (northbound),12
+75,Florida,Exit 131 – Fort Myers,Rest Area,13
+75,Florida,Mile Marker 63 – Immokalee,Rest Area (southbound),14
+75,Florida,Mile Marker 63 – Immokalee,Rest Area (northbound),15
+75,Florida,Mile Marker 34 – Weston,Rest Area (southbound),16
+75,Florida,Mile Marker 34 – Weston,Rest Area (northbound),17
+75,Georgia,Mile Marker 352 – Ringgold,Welcome Center (southbound),18
+75,Georgia,Mile Marker 320 – Calhoun,Rest Area (southbound),19
+75,Georgia,Mile Marker 308 – Adairsville,Rest Area (northbound),20
+75,Georgia,Mile Marker 179 – Forsyth,Rest Area (southbound),21
+75,Georgia,Mile Marker 118 – Pinehurst,Rest Area (southbound),22
+75,Georgia,Mile Marker 108 – Vienna,Rest Area (northbound),23
+75,Georgia,Mile Marker 85 – Ashburn,Rest Area (northbound),24
+75,Georgia,Mile Marker 76 – Sycamore,Rest Area (southbound),25
+75,Georgia,Mile Marker 48 – Lenox,Rest Area (southbound),26
+75,Georgia,Mile Marker 46 – Lenox,Rest Area (northbound),27
+75,Georgia,Mile Marker 3 – Valdosta,Welcome Center (northbound),28
+75,Kentucky,Mile Marker 177 – Walton,Rest Area (southbound),29
+75,Kentucky,Mile Marker 177 – Walton,Rest Area (northbound),30
+75,Kentucky,Mile Marker 127 – Georgetown,Rest Area (southbound),31
+75,Kentucky,Mile Marker 127 – Georgetown,Rest Area (northbound),32
+75,Kentucky,Exit 77 – Berea,Welcome Center,33
+75,Kentucky,Mile Marker 1 – Williamsburg,Welcome Center (northbound),34
+75,Michigan,Exit 394 – Sault Sainte Marie,Welcome Center,35
+75,Michigan,Mile Marker 389 – Sault Sainte Marie,Rest Area (northbound),36
+75,Michigan,Mile Marker 348 – Saint Ignace,Rest Area (southbound),37
+75,Michigan,Mile Marker 344 – Saint Ignace,Welcome Center (northbound),38
+75,Michigan,Exit 338 – Mackinaw City,Welcome Center,39
+75,Michigan,Mile Marker 328 – Hebron,Rest Area (southbound),40
+75,Michigan,Mile Marker 317 – Topinabee,Rest Area (northbound),41
+75,Michigan,Mile Marker 287 – Vanderbilt,Rest Area (southbound),42
+75,Michigan,Mile Marker 277 – Gaylord,Rest Area (northbound),43
+75,Michigan,Mile Marker 262 – Grayling,Rest Area (southbound),44
+75,Michigan,Mile Marker 252 – Grayling,Rest Area (northbound),45
+75,Michigan,Mile Marker 235 – Roscommon,Rest Area (southbound),46
+75,Michigan,Mile Marker 210 – West Branch,Rest Area (northbound),47
+75,Michigan,Mile Marker 202 – Alger,Rest Area (southbound),48
+75,Michigan,Mile Marker 175 – Linwood,Rest Area (northbound),49
+75,Michigan,Mile Marker 158 – Bay City,Rest Area (southbound),50
+75,Michigan,Mile Marker 130 – Clio,Rest Area (southbound),51
+75,Michigan,Mile Marker 129 – Clio,Rest Area (northbound),52
+75,Michigan,Mile Marker 96 – Davisburg,Rest Area (northbound),53
+75,Michigan,Mile Marker 94 – Clarkston,Rest Area (southbound),54
+75,Michigan,Mile Marker 10 – Monroe,Welcome Center (northbound),55
+75,Ohio,Mile Marker 179 – Bowling Green,Welcome Center (southbound),56
+75,Ohio,Mile Marker 179 – Bowling Green,Welcome Center (northbound),57
+75,Ohio,Mile Marker 153 – Findlay,Rest Area (southbound),58
+75,Ohio,Mile Marker 153 – Findlay,Rest Area (northbound),59
+75,Ohio,Mile Marker 114 – Wapakoneta,Rest Area (southbound),60
+75,Ohio,Mile Marker 114 – Wapakoneta,Rest Area (northbound),61
+75,Ohio,Mile Marker 80 – Piqua,Rest Area (southbound),62
+75,Ohio,Mile Marker 80 – Piqua,Rest Area (northbound),63
+75,Ohio,Mile Marker 27 – Monroe,Rest Area (southbound),64
+75,Ohio,Mile Marker 27 – Monroe,Welcome Center (northbound),65
+75,Tennessee,Mile Marker 161 – Jellico,Welcome Center (southbound),66
+75,Tennessee,Mile Marker 45 – Athens,Rest Area (southbound),67
+75,Tennessee,Mile Marker 45 – Athens,Rest Area (northbound),68
+75,Tennessee,Mile Marker 1 – Chattanooga,Welcome Center (northbound),69
+77,North Carolina,Mile Marker 105 – Mount Airy,Welcome Center (southbound),0
+77,North Carolina,Mile Marker 58 – Statesville,Rest Area (southbound),1
+77,North Carolina,Mile Marker 58 – Statesville,Rest Area (northbound),2
+77,North Carolina,Mile Marker 1 – Charlotte,Welcome Center (northbound),3
+77,Ohio,Mile Marker 141 – Bath,Rest Area (southbound),4
+77,Ohio,Mile Marker 141 – Bath,Rest Area (northbound),5
+77,Ohio,Mile Marker 39 – Buffalo,Rest Area (northbound),6
+77,Ohio,Mile Marker 37 – Buffalo,Rest Area (southbound),7
+77,Ohio,Mile Marker 3 – Marietta,Welcome Center (northbound),8
+77,South Carolina,Mile Marker 89 – Fort Mill,Welcome Center (southbound),9
+77,South Carolina,Mile Marker 65 – Richburg,Rest Area (southbound),10
+77,South Carolina,Mile Marker 65 – Richburg,Rest Area (northbound),11
+77,Virginia,Mile Marker 61 – Rocky Gap,Welcome Center (southbound),12
+77,Virginia,Mile Marker 59 – Rocky Gap,Rest Area (northbound),13
+77,Virginia,Mile Marker 1 – Lambsburg,Welcome Center (northbound),14
+77,West Virginia,Exit 185 – Williamstown,Welcome Center,15
+77,West Virginia,Mile Marker 166 – Mineral Wells,Rest Area (northbound),16
+77,West Virginia,Mile Marker 69 – Burnwell,Rest Area (southbound),17
+77,West Virginia,Exit 9 – Princeton,Welcome Center,18
+79,Pennsylvania,Mile Marker 163 – Edinboro,Rest Area (southbound),0
+79,Pennsylvania,Mile Marker 163 – Edinboro,Rest Area (northbound),1
+79,Pennsylvania,Mile Marker 135 – Sheakleyville,Rest Area (southbound),2
+79,Pennsylvania,Mile Marker 135 – Sheakleyville,Rest Area (northbound),3
+79,Pennsylvania,Mile Marker 110 – Grove City,Rest Area (southbound),4
+79,Pennsylvania,Mile Marker 107 – Grove City,Rest Area (northbound),5
+79,Pennsylvania,Mile Marker 50 – Bridgeville,Rest Area (southbound),6
+79,Pennsylvania,Mile Marker 50 – Bridgeville,Rest Area (northbound),7
+79,Pennsylvania,Mile Marker 6 – Mount Morris,Welcome Center (northbound),8
+79,West Virginia,Mile Marker 159 – Morgantown,Welcome Center (southbound),9
+79,West Virginia,Mile Marker 123 – Bridgeport,Rest Area (southbound),10
+79,West Virginia,Mile Marker 123 – Bridgeport,Rest Area (northbound),11
+79,West Virginia,Mile Marker 85 – Burnsville,Rest Area (southbound),12
+79,West Virginia,Mile Marker 85 – Burnsville,Rest Area (northbound),13
+79,West Virginia,Mile Marker 49 – Frametown,Rest Area (southbound),14
+79,West Virginia,Mile Marker 49 – Frametown,Rest Area (northbound),15
+80,California,Mile Marker 177 – Truckee,Rest Area (westbound),0
+80,California,Mile Marker 177 – Truckee,Rest Area (eastbound),1
+80,California,Mile Marker 143 – Gold Run,Rest Area (westbound),2
+80,California,Mile Marker 143 – Gold Run,Rest Area (eastbound),3
+80,California,Mile Marker 34 – Vallejo,Rest Area (westbound),4
+80,Illinois,Mile Marker 119 – Minooka,Rest Area (westbound),5
+80,Illinois,Mile Marker 117 – Minooka,Rest Area (eastbound),6
+80,Illinois,Mile Marker 51 – Princeton,Rest Area (westbound),7
+80,Illinois,Mile Marker 51 – Princeton,Rest Area (eastbound),8
+80,Illinois,Mile Marker 1 – Rapids City,Welcome Center (eastbound),9
+80,Indiana,Exit 3 – Hammond,Welcome Center,10
+80,Iowa,Mile Marker 300 – Davenport,Rest Area (westbound),11
+80,Iowa,Mile Marker 300 – Davenport,Rest Area (eastbound),12
+80,Iowa,Mile Marker 270 – Wilton,Welcome Center (westbound),13
+80,Iowa,Mile Marker 270 – Wilton,Rest Area (eastbound),14
+80,Iowa,Mile Marker 237 – Tiffin,Rest Area (westbound),15
+80,Iowa,Mile Marker 237 – Tiffin,Rest Area (eastbound),16
+80,Iowa,Mile Marker 208 – Victor,Rest Area (westbound),17
+80,Iowa,Mile Marker 208 – Victor,Rest Area (eastbound),18
+80,Iowa,Mile Marker 180 – Grinnell,Rest Area (westbound),19
+80,Iowa,Mile Marker 180 – Grinnell,Rest Area (eastbound),20
+80,Iowa,Mile Marker 147 – Mitchellville,Rest Area (westbound),21
+80,Iowa,Mile Marker 147 – Mitchellville,Rest Area (eastbound),22
+80,Iowa,Mile Marker 81 – Adair,Rest Area (eastbound),23
+80,Iowa,Mile Marker 81 – Adair,Rest Area (westbound),24
+80,Iowa,Mile Marker 19 – Underwood,Rest Area (westbound),25
+80,Iowa,Mile Marker 19 – Underwood,Welcome Center (eastbound),26
+80,Nebraska,Mile Marker 431 – Gretna,Rest Area (westbound),27
+80,Nebraska,Mile Marker 425 – Ashland,Rest Area (eastbound),28
+80,Nebraska,Mile Marker 381 – Milford,Rest Area (eastbound),29
+80,Nebraska,Mile Marker 355 – York,Rest Area (westbound),30
+80,Nebraska,Mile Marker 355 – York,Rest Area (eastbound),31
+80,Nebraska,Mile Marker 316 – Grand Island,Rest Area (westbound),32
+80,Nebraska,Mile Marker 314 – Grand Island,Rest Area (eastbound),33
+80,Nebraska,Mile Marker 270 – Kearney,Rest Area (westbound),34
+80,Nebraska,Mile Marker 269 – Kearney,Rest Area (eastbound),35
+80,Nebraska,Mile Marker 227 – Cozad,Rest Area (westbound),36
+80,Nebraska,Mile Marker 226 – Cozad,Rest Area (eastbound),37
+80,Nebraska,Mile Marker 194 – Brady,Rest Area (eastbound),38
+80,Nebraska,Mile Marker 193 – Brady,Rest Area (westbound),39
+80,Nebraska,Mile Marker 159 – Sutherland,Rest Area (westbound),40
+80,Nebraska,Mile Marker 159 – Sutherland,Rest Area (eastbound),41
+80,Nebraska,Mile Marker 132 – Ogallala,Rest Area (westbound),42
+80,Nebraska,Mile Marker 124 – Ogallala,Rest Area (eastbound),43
+80,Nebraska,Mile Marker 87 – Chappell,Rest Area (westbound),44
+80,Nebraska,Mile Marker 82 – Chappell,Rest Area (eastbound),45
+80,Nebraska,Mile Marker 61 – Sidney,Rest Area (westbound),46
+80,Nebraska,Mile Marker 51 – Sidney,Rest Area (eastbound),47
+80,Nebraska,Mile Marker 25 – Kimball,Rest Area (westbound),48
+80,Nebraska,Mile Marker 9 – Kimball,Rest Area (eastbound),49
+80,Nevada,Exit 410 – West Wendover,Welcome Center,50
+80,Nevada,Mile Marker 373 – Wells,Rest Area (westbound),51
+80,Nevada,Mile Marker 373 – Wells,Rest Area (eastbound),52
+80,Nevada,Mile Marker 258 – Beowawe,Rest Area (westbound),53
+80,Nevada,Mile Marker 258 – Beowawe,Rest Area (eastbound),54
+80,Nevada,Exit 216 – Valmy,Rest Area,55
+80,Nevada,Exit 187 – Golconda,Rest Area,56
+80,Nevada,Exit 158 – Winnemucca,Rest Area,57
+80,Nevada,Exit 83 – Lovelock,Rest Area,58
+80,Nevada,Mile Marker 42 – Wadsworth,Rest Area (westbound),59
+80,New Jersey,Mile Marker 32 – Wharton,Rest Area (westbound),60
+80,New Jersey,Mile Marker 32 – Wharton,Rest Area (eastbound),61
+80,New Jersey,Mile Marker 21 – Allamuchy,Rest Area (westbound),62
+80,New Jersey,Mile Marker 21 – Allamuchy,Rest Area (eastbound),63
+80,New Jersey,Mile Marker 7 – Columbia,Welcome Center (eastbound),64
+80,New Jersey,Mile Marker 1 – Columbia,Rest Area (westbound),65
+80,New Jersey,Mile Marker 1 – Columbia,Rest Area (eastbound),66
+80,Pennsylvania,Exit 310 – Delaware Water Gap,Welcome Center,67
+80,Pennsylvania,Mile Marker 295 – Scotrun,Rest Area (eastbound),68
+80,Pennsylvania,Mile Marker 270 – White Haven,Rest Area (eastbound),69
+80,Pennsylvania,Mile Marker 246 – Mifflinville,Rest Area (westbound),70
+80,Pennsylvania,Mile Marker 246 – Mifflinville,Rest Area (eastbound),71
+80,Pennsylvania,Mile Marker 219 – Danville,Rest Area (westbound),72
+80,Pennsylvania,Mile Marker 219 – Danville,Rest Area (eastbound),73
+80,Pennsylvania,Mile Marker 194 – Carroll,Rest Area (westbound),74
+80,Pennsylvania,Mile Marker 194 – Carroll,Rest Area (eastbound),75
+80,Pennsylvania,Mile Marker 146 – Snow Shoe,Rest Area (westbound),76
+80,Pennsylvania,Mile Marker 146 – Snow Shoe,Rest Area (eastbound),77
+80,Pennsylvania,Mile Marker 87 – Emerickville,Rest Area (westbound),78
+80,Pennsylvania,Mile Marker 87 – Emerickville,Rest Area (eastbound),79
+80,Pennsylvania,Mile Marker 30 – Barkeyville,Rest Area (westbound),80
+80,Pennsylvania,Mile Marker 30 – Barkeyville,Rest Area (eastbound),81
+80,Pennsylvania,Mile Marker 1 – West Middlesex,Welcome Center (eastbound),82
+80,Utah,Mile Marker 171 – Echo,Welcome Center (westbound),83
+80,Utah,Mile Marker 171 – Echo,Rest Area (eastbound),84
+80,Utah,Mile Marker 54 – Grantsville,Rest Area (westbound),85
+80,Utah,Mile Marker 54 – Grantsville,Rest Area (eastbound),86
+80,Utah,Mile Marker 10 – Wendover,Rest Area (westbound),87
+80,Utah,Mile Marker 10 – Wendover,Rest Area (eastbound),88
+80,Wyoming,Exit 401 – Pine Bluffs,Welcome Center,89
+80,Wyoming,Exit 323 – Laramie,Rest Area,90
+80,Wyoming,Exit 267 – Elk Mountain,Rest Area,91
+80,Wyoming,Exit 228 – Sinclair,Rest Area,92
+80,Wyoming,Mile Marker 144 – Rock Springs,Rest Area (westbound),93
+80,Wyoming,Mile Marker 144 – Rock Springs,Rest Area (eastbound),94
+80,Wyoming,Exit 41 – Lyman,Rest Area,95
+80,Wyoming,Exit 6 – Evanston,Welcome Center,96
+81,New York,Exit 50 – Alexandria Bay,Welcome Center,0
+81,New York,Mile Marker 174 – La Fargeville,Rest Area (northbound),1
+81,New York,Mile Marker 147 – Watertown,Rest Area (southbound),2
+81,New York,Mile Marker 60 – Preble,Rest Area (northbound),3
+81,New York,Mile Marker 33 – Whitney Point,Rest Area (southbound),4
+81,New York,Mile Marker 2 – Kirkwood,Welcome Center (northbound),5
+81,Pennsylvania,Mile Marker 232 – Great Bend,Welcome Center (southbound),6
+81,Pennsylvania,Mile Marker 209 – Lenoxville,Rest Area (southbound),7
+81,Pennsylvania,Mile Marker 203 – Fleetville,Rest Area (northbound),8
+81,Pennsylvania,Mile Marker 158 – Nuangola,Rest Area (southbound),9
+81,Pennsylvania,Mile Marker 156 – Dorrance,Rest Area (northbound),10
+81,Pennsylvania,Mile Marker 79 – Grantville,Rest Area (southbound),11
+81,Pennsylvania,Mile Marker 79 – Grantville,Rest Area (northbound),12
+81,Pennsylvania,Mile Marker 38 – Carlisle,Rest Area (southbound),13
+81,Pennsylvania,Mile Marker 38 – Carlisle,Rest Area (northbound),14
+81,Pennsylvania,Mile Marker 2 – Greencastle,Welcome Center (northbound),15
+81,Tennessee,Mile Marker 75 – Bristol,Welcome Center (southbound),16
+81,Tennessee,Mile Marker 41 – Baileyton,Rest Area (southbound),17
+81,Tennessee,Mile Marker 38 – Baileyton,Rest Area (northbound),18
+81,Tennessee,Mile Marker 2 – White Pine,Rest Area (southbound),19
+81,Virginia,Mile Marker 320 – Winchester,Welcome Center (southbound),20
+81,Virginia,Mile Marker 262 – New Market,Rest Area (southbound),21
+81,Virginia,Mile Marker 262 – New Market,Rest Area (northbound),22
+81,Virginia,Mile Marker 232 – Mount Sydney,Rest Area (southbound),23
+81,Virginia,Mile Marker 232 – Mount Sydney,Rest Area (northbound),24
+81,Virginia,Mile Marker 199 – Fairfield,Rest Area (southbound),25
+81,Virginia,Mile Marker 158 – Troutville,Rest Area (southbound),26
+81,Virginia,Mile Marker 129 – Elliston,Rest Area (northbound),27
+81,Virginia,Mile Marker 108 – Radford,Rest Area (southbound),28
+81,Virginia,Mile Marker 108 – Radford,Rest Area (northbound),29
+81,Virginia,Mile Marker 61 – Rural Retreat,Rest Area (northbound),30
+81,Virginia,Mile Marker 53 – Atkins,Rest Area (southbound),31
+81,Virginia,Mile Marker 1 – Bristol,Welcome Center (northbound),32
+81,West Virginia,Mile Marker 25 – Falling Waters,Welcome Center (southbound),33
+81,West Virginia,Mile Marker 2 – Inwood,Welcome Center (northbound),34
+84,Connecticut,Mile Marker 85 – West Willington,Welcome Center (westbound),0
+84,Connecticut,Mile Marker 85 – West Willington,Rest Area (eastbound),1
+84,Connecticut,Mile Marker 42 – Southington,Rest Area (eastbound),2
+84,Connecticut,Exit 2 – Danbury,Welcome Center (eastbound),3
+84,New York,Mile Marker 56 – Stormville,Rest Area (westbound),4
+84,New York,Mile Marker 55 – Stormville,Rest Area (eastbound),5
+84,New York,Mile Marker 24 – Wallkill,Rest Area (westbound),6
+84,New York,Mile Marker 17 – Middletown,Rest Area (eastbound),7
+84,Pennsylvania,Exit 53 – Matamoras,Welcome Center,8
+84,Pennsylvania,Mile Marker 26 – Greentown,Rest Area (westbound),9
+84,Pennsylvania,Mile Marker 26 – Greentown,Rest Area (eastbound),10
+84,Idaho,Mile Marker 269 – Stone,Rest Area (westbound),11
+84,Idaho,Mile Marker 269 – Stone,Rest Area (eastbound),12
+84,Idaho,Mile Marker 229 – Declo,Rest Area (westbound),13
+84,Idaho,Mile Marker 229 – Declo,Rest Area (eastbound),14
+84,Idaho,Mile Marker 133 – Bliss,Rest Area (westbound),15
+84,Idaho,Mile Marker 133 – Bliss,Rest Area (eastbound),16
+84,Idaho,Mile Marker 62 – Boise,Rest Area (westbound),17
+84,Idaho,Mile Marker 62 – Boise,Rest Area (eastbound),18
+84,Idaho,Mile Marker 1 – Fruitland,Welcome Center (eastbound),19
+84,Oregon,Mile Marker 377 – Ontario,Welcome Center (westbound),20
+84,Oregon,Exit 374 – Ontario,Rest Area,21
+84,Oregon,Exit 335 – Huntington,Rest Area,22
+84,Oregon,Mile Marker 295 – Baker City,Rest Area (westbound),23
+84,Oregon,Mile Marker 295 – Baker City,Rest Area (eastbound),24
+84,Oregon,Mile Marker 269 – La Grande,Rest Area (westbound),25
+84,Oregon,Mile Marker 269 – La Grande,Rest Area (eastbound),26
+84,Oregon,Exit 252 – La Grande,Rest Area,27
+84,Oregon,Exit 228 – Pendleton,Rest Area,28
+84,Oregon,Mile Marker 187 – Stanfield,Rest Area (westbound),29
+84,Oregon,Mile Marker 187 – Stanfield,Rest Area (eastbound),30
+84,Oregon,Mile Marker 160 – Boardman,Rest Area (westbound),31
+84,Oregon,Mile Marker 160 – Boardman,Rest Area (eastbound),32
+84,Oregon,Mile Marker 73 – Mosier,Rest Area (westbound),33
+84,Oregon,Mile Marker 73 – Mosier,Rest Area (eastbound),34
+84,Oregon,Mile Marker 65 – Hood River,Rest Area (westbound),35
+84,Utah,Mile Marker 94 – Morgan,Rest Area (westbound),36
+84,Utah,Mile Marker 91 – Morgan,Rest Area (eastbound),37
+84,Utah,Mile Marker 361 – Perry,Rest Area (westbound),38
+84,Utah,Mile Marker 369 – Brigham City,Rest Area (eastbound),39
+85,Alabama,Mile Marker 78 – Lanett,Welcome Center (southbound),0
+85,Alabama,Mile Marker 44 – Tuskegee,Rest Area (southbound),1
+85,Alabama,Mile Marker 44 – Tuskegee,Rest Area (northbound),2
+85,Georgia,Mile Marker 176 – Lavonia,Welcome Center (southbound),3
+85,Georgia,Mile Marker 0.5 – West Point,Welcome Center (northbound),4
+85,North Carolina,Mile Marker 231 – Norlina,Welcome Center (southbound),5
+85,North Carolina,Mile Marker 199 – Oxford,Rest Area (southbound),6
+85,North Carolina,Mile Marker 199 – Oxford,Rest Area (northbound),7
+85,North Carolina,Mile Marker 139 – Burlington,Rest Area (southbound),8
+85,North Carolina,Mile Marker 139 – Burlington,Rest Area (northbound),9
+85,North Carolina,Mile Marker 99 – Thomasville,Rest Area (southbound),10
+85,North Carolina,Mile Marker 99 – Thomasville,Rest Area (northbound),11
+85,North Carolina,Mile Marker 59 – Concord,Rest Area (southbound),12
+85,North Carolina,Mile Marker 59 – Concord,Rest Area (northbound),13
+85,North Carolina,Mile Marker 2 – Grover,Welcome Center (northbound),14
+85,South Carolina,Mile Marker 103 – Blacksburg,Welcome Center (southbound),15
+85,South Carolina,Mile Marker 24 – Anderson,Rest Area (southbound),16
+85,South Carolina,Mile Marker 17 – Anderson,Rest Area (northbound),17
+85,South Carolina,Mile Marker 0.5 – Fair Play,Welcome Center (northbound),18
+85,Virginia,Mile Marker 55 – Dinwiddie,Rest Area (southbound),19
+85,Virginia,Mile Marker 55 – Dinwiddie,Rest Area (northbound),20
+85,Virginia,Mile Marker 32 – Alberta,Rest Area (southbound),21
+85,Virginia,Mile Marker 32 – Alberta,Rest Area (northbound),22
+85,Virginia,Mile Marker 0.5 – Bracey,Welcome Center (northbound),23
+89,New Hampshire,Mile Marker 57 – Lebanon,Welcome Center (southbound),0
+89,New Hampshire,Mile Marker 40 – Springfield,Rest Area (northbound),1
+89,New Hampshire,Mile Marker 26 – Sutton,Rest Area (southbound),2
+89,Vermont,Mile Marker 111 – Georgia,Rest Area (southbound),3
+89,Vermont,Mile Marker 110 – Georgia,Rest Area (northbound),4
+89,Vermont,Mile Marker 82 – Williston,Rest Area (southbound),5
+89,Vermont,Mile Marker 82 – Williston,Rest Area (northbound),6
+89,Vermont,Exit 7 – Berlin,Rest Area,7
+89,Vermont,Mile Marker 33 – Randolph,Rest Area (southbound),8
+89,Vermont,Mile Marker 8 – Sharon,Welcome Center (northbound),9
+90,Idaho,Mile Marker 8 – Post Falls,Rest Area (westbound),0
+90,Idaho,Mile Marker 8 – Post Falls,Welcome Center (eastbound),1
+90,Illinois,Mile Marker 1 – South Beloit,Welcome Center (eastbound),2
+90,Minnesota,Exit 275 – La Crescent,Welcome Center (westbound),3
+90,Minnesota,Mile Marker 244 – Lewiston,Rest Area (eastbound),4
+90,Minnesota,Mile Marker 222 – Eyota,Rest Area (westbound),5
+90,Minnesota,Mile Marker 202 – Stewartville,Rest Area (eastbound),6
+90,Minnesota,Mile Marker 171 – Albert Lea,Rest Area (westbound),7
+90,Minnesota,Mile Marker 162 – Albert Lea,Rest Area (eastbound),8
+90,Minnesota,Mile Marker 119 – Blue Earth,Rest Area (westbound),9
+90,Minnesota,Mile Marker 119 – Blue Earth,Rest Area (eastbound),10
+90,Minnesota,Mile Marker 72 – Jackson,Rest Area (westbound),11
+90,Minnesota,Mile Marker 69 – Jackson,Rest Area (eastbound),12
+90,Minnesota,Mile Marker 25 – Adrian,Rest Area (westbound),13
+90,Minnesota,Mile Marker 24 – Adrian,Rest Area (eastbound),14
+90,Minnesota,Mile Marker 0 – Beaver Creek,Welcome Center (eastbound),15
+90,Montana,Exit 497 – Hardin,Welcome Center,16
+90,Montana,Mile Marker 476 – Hardin,Rest Area (eastbound),17
+90,Montana,Mile Marker 475 – Hardin,Rest Area (westbound),18
+90,Montana,Mile Marker 419 – Columbus,Rest Area (westbound),19
+90,Montana,Mile Marker 419 – Columbus,Rest Area (eastbound),20
+90,Montana,Mile Marker 381 – Greycliff,Rest Area (westbound),21
+90,Montana,Mile Marker 381 – Greycliff,Rest Area (eastbound),22
+90,Montana,Exit 305 – Bozeman,Rest Area,23
+90,Montana,Exit 208 – Anaconda,Rest Area,24
+90,Montana,Mile Marker 169 – Gold Creek,Rest Area (eastbound),25
+90,Montana,Mile Marker 167 – Gold Creek,Rest Area (westbound),26
+90,Montana,Mile Marker 143 – Bearmouth,Rest Area (westbound),27
+90,Montana,Mile Marker 143 – Bearmouth,Rest Area (eastbound),28
+90,Montana,Mile Marker 58 – Superior,Rest Area (westbound),29
+90,Montana,Mile Marker 58 – Superior,Rest Area (eastbound),30
+90,Montana,Mile Marker 4 – Saltese,Rest Area (westbound),31
+90,Montana,Mile Marker 4 – Saltese,Rest Area (eastbound),32
+90,Ohio,Mile Marker 242 – Conneaut,Welcome Center (westbound),33
+90,Ohio,Mile Marker 198 – Mentor,Rest Area (westbound),34
+90,Ohio,Mile Marker 198 – Mentor,Rest Area (eastbound),35
+90,Pennsylvania,Mile Marker 46 – North East,Welcome Center (westbound),36
+90,Pennsylvania,Mile Marker 2 – West Springfield,Welcome Center (eastbound),37
+90,South Dakota,Mile Marker 412 – Valley Springs,Welcome Center (westbound),38
+90,South Dakota,Mile Marker 412 – Valley Springs,Rest Area (eastbound),39
+90,South Dakota,Mile Marker 363 – Salem,Rest Area (westbound),40
+90,South Dakota,Mile Marker 363 – Salem,Rest Area (eastbound),41
+90,South Dakota,Mile Marker 302 – White Lake,Rest Area (westbound),42
+90,South Dakota,Mile Marker 301 – White Lake,Rest Area (eastbound),43
+90,South Dakota,Mile Marker 264 – Chamberlain,Rest Area (westbound),44
+90,South Dakota,Mile Marker 264 – Chamberlain,Rest Area (eastbound),45
+90,South Dakota,Mile Marker 221 – Presho,Rest Area (westbound),46
+90,South Dakota,Mile Marker 218 – Presho,Rest Area (eastbound),47
+90,South Dakota,Mile Marker 167 – Belvidere,Rest Area (westbound),48
+90,South Dakota,Mile Marker 165 – Belvidere,Rest Area (eastbound),49
+90,South Dakota,Mile Marker 98 – Wasta,Rest Area (westbound),50
+90,South Dakota,Mile Marker 98 – Wasta,Rest Area (eastbound),51
+90,South Dakota,Mile Marker 1 – Spearfish,Welcome Center (eastbound),52
+90,Washington,Mile Marker 242 – Sprague,Rest Area (westbound),53
+90,Washington,Mile Marker 241 – Sprague,Rest Area (eastbound),54
+90,Washington,Mile Marker 198 – Schrag,Rest Area (westbound),55
+90,Washington,Mile Marker 198 – Schrag,Rest Area (eastbound),56
+90,Washington,Mile Marker 161 – Moses Lake,Rest Area (westbound),57
+90,Washington,Mile Marker 161 – Moses Lake,Rest Area (eastbound),58
+90,Washington,Mile Marker 125 – Ellensburg,Rest Area (westbound),59
+90,Washington,Mile Marker 125 – Ellensburg,Rest Area (eastbound),60
+90,Washington,Mile Marker 89 – Cle Elum,Rest Area (westbound),61
+90,Washington,Mile Marker 89 – Cle Elum,Rest Area (eastbound),62
+90,Wisconsin,Mile Marker 187 – Beloit,Welcome Center (westbound),63
+90,Wisconsin,Mile Marker 168 – Janesville,Rest Area (eastbound),64
+90,Wisconsin,Mile Marker 113 – Poynette,Rest Area (westbound),65
+90,Wisconsin,Mile Marker 113 – Poynette,Rest Area (eastbound),66
+90,Wisconsin,Mile Marker 75 – Lyndon Station,Rest Area (westbound),67
+90,Wisconsin,Mile Marker 74 – Lyndon Station,Rest Area (eastbound),68
+90,Wisconsin,Mile Marker 21 – Sparta,Rest Area (westbound),69
+90,Wisconsin,Mile Marker 20 – Bangor,Rest Area (eastbound),70
+90,Wisconsin,Mile Marker 1 – La Crosse,Welcome Center (eastbound),71
+90,Wyoming,Exit 189 – Sundance,Welcome Center,72
+90,Wyoming,Exit 153 – Moorcroft,Rest Area,73
+90,Wyoming,Exit 88 – Buffalo,Rest Area,74
+90,Wyoming,Exit 23 – Sheridan,Welcome Center,75
+91,Connecticut,Mile Marker 21 – Middletown,Rest Area (northbound),0
+91,Connecticut,Mile Marker 14 – Wallingford,Rest Area (southbound),1
+91,Massachusetts,Exit 26 – Greenfield,Rest Area / Visitor Information Center,2
+91,Vermont,Mile Marker 176 – Derby,Welcome Center (southbound),3
+91,Vermont,Mile Marker 141 – Lyndon,Rest Area (southbound),4
+91,Vermont,Mile Marker 100 – Bradford,Rest Area (northbound),5
+91,Vermont,Mile Marker 68 – Hartford,Welcome Center (southbound),6
+91,Vermont,Mile Marker 6 – Brattleboro,Welcome Center (northbound),7
+94,Indiana,Mile Marker 43 – Michigan City,Welcome Center (westbound),0
+94,Indiana,Exit 3 – Hammond,Welcome Center,1
+94,Michigan,Mile Marker 272 – Port Huron,Welcome Center (westbound),2
+94,Michigan,Mile Marker 255 – Adair,Rest Area (eastbound),3
+94,Michigan,Mile Marker 250 – Richmond,Rest Area (westbound),4
+94,Michigan,Mile Marker 188 – Belleville,Rest Area (westbound),5
+94,Michigan,Mile Marker 161 – Chelsea,Rest Area (eastbound),6
+94,Michigan,Mile Marker 150 – Grass Lake,Rest Area (westbound),7
+94,Michigan,Mile Marker 135 – Sandstone,Rest Area (eastbound),8
+94,Michigan,Mile Marker 113 – Marshall,Rest Area (westbound),9
+94,Michigan,Mile Marker 96 – Battle Creek,Rest Area (eastbound),10
+94,Michigan,Mile Marker 85 – Galesburg,Rest Area (westbound),11
+94,Michigan,Mile Marker 42 – Watervliet,Rest Area (westbound),12
+94,Michigan,Mile Marker 0.5 – New Buffalo,Welcome Center (eastbound),13
+94,Minnesota,Mile Marker 256 – Lakeland,Welcome Center (westbound),14
+94,Minnesota,Mile Marker 215 – Osseo,Rest Area (eastbound),15
+94,Minnesota,Mile Marker 187 – Monticello,Rest Area (eastbound),16
+94,Minnesota,Mile Marker 177 – Clearwater,Rest Area (westbound),17
+94,Minnesota,Mile Marker 152 – Avon,Rest Area (westbound),18
+94,Minnesota,Mile Marker 152 – Avon,Rest Area (eastbound),19
+94,Minnesota,Mile Marker 105 – Alexandria,Rest Area (westbound),20
+94,Minnesota,Mile Marker 100 – Alexandria,Rest Area (eastbound),21
+94,Minnesota,Mile Marker 69 – Dalton,Rest Area (westbound),22
+94,Minnesota,Mile Marker 2 – Moorhead,Welcome Center (eastbound),23
+94,Montana,Exit 242 – Wibaux,Welcome Center (westbound),24
+94,Montana,Exit 192 – Glendive,Rest Area,25
+94,Montana,Mile Marker 113 – Hathaway,Rest Area (eastbound),26
+94,Montana,Mile Marker 112 – Hathaway,Rest Area (westbound),27
+94,Montana,Mile Marker 64 – Hysham,Rest Area (westbound),28
+94,Montana,Mile Marker 64 – Hysham,Rest Area (eastbound),29
+94,Montana,Mile Marker 41 – Custer,Rest Area (eastbound),30
+94,Montana,Mile Marker 38 – Custer,Rest Area (westbound),31
+94,North Dakota,Mile Marker 304 – Oriska,Rest Area (westbound),32
+94,North Dakota,Mile Marker 304 – Oriska,Rest Area (eastbound),33
+94,North Dakota,Mile Marker 254 – Jamestown,Rest Area (westbound),34
+94,North Dakota,Mile Marker 254 – Jamestown,Rest Area (eastbound),35
+94,North Dakota,Mile Marker 224 – Medina,Rest Area (westbound),36
+94,North Dakota,Mile Marker 221 – Medina,Rest Area (eastbound),37
+94,North Dakota,Mile Marker 168 – Bismarck,Rest Area (westbound),38
+94,North Dakota,Mile Marker 168 – Bismarck,Rest Area (eastbound),39
+94,North Dakota,Mile Marker 119 – New Salem,Rest Area (westbound),40
+94,North Dakota,Mile Marker 119 – New Salem,Rest Area (eastbound),41
+94,North Dakota,Exit 32 – Medora,Rest Area,42
+94,North Dakota,Exit 1 – Beach,Welcome Center,43
+94,Wisconsin,Exit 347 – Kenosha,Welcome Center,44
+94,Wisconsin,Mile Marker 263 – Johnson Creek,Rest Area (westbound),45
+94,Wisconsin,Mile Marker 261 – Lake Mills,Rest Area (eastbound),46
+94,Wisconsin,Mile Marker 113 – Poynette,Rest Area (westbound),47
+94,Wisconsin,Mile Marker 113 – Poynette,Rest Area (eastbound),48
+94,Wisconsin,Mile Marker 75 – Lyndon Station,Rest Area (westbound),49
+94,Wisconsin,Mile Marker 74 – Lyndon Station,Rest Area (eastbound),50
+94,Wisconsin,Mile Marker 124 – Black River Falls,Rest Area (eastbound),51
+94,Wisconsin,Mile Marker 121 – Black River Falls,Rest Area (westbound),52
+94,Wisconsin,Mile Marker 43 – Menomonie,Rest Area (westbound),53
+94,Wisconsin,Mile Marker 43 – Menomonie,Rest Area (eastbound),54
+95,Connecticut,Mile Marker 108 – North Stonington,Welcome Center (southbound),0
+95,Florida,Mile Marker 378 – Yulee,Welcome Center (southbound),1
+95,Florida,Mile Marker 331 – Jacksonville,Rest Area (southbound),2
+95,Florida,Mile Marker 331 – Jacksonville,Rest Area (northbound),3
+95,Florida,Mile Marker 303 – Saint Augustine,Rest Area (southbound),4
+95,Florida,Mile Marker 302 – Saint Augustine,Rest Area (northbound),5
+95,Florida,Mile Marker 227 – Mims,Rest Area (southbound),6
+95,Florida,Mile Marker 225 – Mims,Rest Area (northbound),7
+95,Florida,Mile Marker 169 – Malabar,Rest Area (southbound),8
+95,Florida,Mile Marker 168 – Malabar,Rest Area (northbound),9
+95,Florida,Mile Marker 133 – Fort Pierce,Rest Area (southbound),10
+95,Florida,Mile Marker 133 – Fort Pierce,Rest Area (northbound),11
+95,Florida,Mile Marker 106 – Palm City,Rest Area (southbound),12
+95,Florida,Mile Marker 106 – Palm City,Rest Area (northbound),13
+95,Georgia,Mile Marker 111 – Savannah,Welcome Center (southbound),14
+95,Georgia,Mile Marker 41 – Brunswick,Rest Area (southbound),15
+95,Georgia,Exit 1 – Kingsland,Welcome Center (northbound),16
+95,Maine,Exit 302 – Houlton,Welcome Center,17
+95,Maine,Mile Marker 243 – Medway,Rest Area (southbound),18
+95,Maine,Mile Marker 243 – Medway,Rest Area (northbound),19
+95,Maine,Mile Marker 179 – Hampden,Welcome Center (southbound),20
+95,Maine,Mile Marker 175 – Hampden,Welcome Center (northbound),21
+95,Maine,Mile Marker 3 – Kittery,Welcome Center (northbound),22
+95,Maryland,Mile Marker 37 – Savage,Welcome Center (southbound),23
+95,Maryland,Mile Marker 37 – Savage,Welcome Center (northbound),24
+95,Massachusetts,Mile Marker 89 – Salisbury,Welcome Center (southbound),25
+95,Massachusetts,Mile Marker 27 – Westwood,Rest Area (southbound),26
+95,New Hampshire,Mile Marker 0.5 – Seabrook,Welcome Center (northbound),27
+95,North Carolina,Mile Marker 181 – Gaston,Welcome Center (southbound),28
+95,North Carolina,Mile Marker 142 – Dortches,Rest Area (southbound),29
+95,North Carolina,Mile Marker 142 – Dortches,Rest Area (northbound),30
+95,North Carolina,Mile Marker 99 – Selma,Rest Area (southbound),31
+95,North Carolina,Mile Marker 99 – Selma,Rest Area (northbound),32
+95,North Carolina,Mile Marker 48 – Fayetteville,Rest Area (southbound),33
+95,North Carolina,Mile Marker 48 – Fayetteville,Rest Area (northbound),34
+95,North Carolina,Mile Marker 5 – Rowland,Welcome Center (northbound),35
+95,Pennsylvania,Mile Marker 51 – Morrisville,Rest Area (southbound),36
+95,Pennsylvania,Mile Marker 0.5 – Linwood,Welcome Center (northbound),37
+95,South Carolina,Mile Marker 195 – Dillon,Welcome Center (southbound),38
+95,South Carolina,Mile Marker 139 – Shiloh,Rest Area (southbound),39
+95,South Carolina,Mile Marker 139 – Shiloh,Rest Area (northbound),40
+95,South Carolina,Mile Marker 99 – Santee,Welcome Center (southbound),41
+95,South Carolina,Mile Marker 99 – Santee,Rest Area (northbound),42
+95,South Carolina,Mile Marker 47 – Walterboro,Rest Area (southbound),43
+95,South Carolina,Mile Marker 47 – Walterboro,Rest Area (northbound),44
+95,South Carolina,Mile Marker 4 – Hardeeville,Welcome Center (northbound),45
+95,Virginia,Mile Marker 155 – Dale City,Rest Area (southbound),46
+95,Virginia,Mile Marker 155 – Dale City,Rest Area (northbound),47
+95,Virginia,Mile Marker 131 – Fredericksburg,Welcome Center (southbound),48
+95,Virginia,Mile Marker 107 – Ladysmith,Rest Area (southbound),49
+95,Virginia,Mile Marker 107 – Ladysmith,Rest Area (northbound),50
+95,Virginia,Mile Marker 37 – Carson,Rest Area (northbound),51
+95,Virginia,Mile Marker 1 – Skippers,Welcome Center (northbound),52

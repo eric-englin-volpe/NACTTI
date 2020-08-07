@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-1.0.4.min.css" type="text/css" />
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.0.4.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="d7132059-fcfe-4643-b45f-3f7fc83f38f9" data-root-id="1122"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1234">
+          {"f0671db6-1b05-424a-9f97-8b7e3762c7d4":{"roots":{"references":[{"attributes":{},"id":"1150","type":"ResetTool"},{"attributes":{"bottom_units":"screen","fill_alpha":{"value":0.5},"fill_color":{"value":"lightgrey"},"left_units":"screen","level":"overlay","line_alpha":{"value":1.0},"line_color":{"value":"black"},"line_dash":[4,4],"line_width":{"value":2},"plot":null,"render_mode":"css","right_units":"screen","top_units":"screen"},"id":"1157","type":"BoxAnnotation"},{"attributes":{"dimension":"lon"},"id":"1133","type":"MercatorTicker"},{"attributes":{"formatter":{"id":"1135","type":"MercatorTickFormatter"},"plot":{"id":"1122","subtype":"Figure","type":"Plot"},"ticker":{"id":"1133","type":"MercatorTicker"}},"id":"1132","type":"MercatorAxis"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"1120","type":"HoverTool"},{"id":"1150","type":"ResetTool"},{"id":"1151","type":"WheelZoomTool"},{"id":"1152","type":"BoxZoomTool"},{"id":"1153","type":"SaveTool"}]},"id":"1154","type":"Toolbar"},{"attributes":{"tile_source":{"id":"1118","type":"WMTSTileSource"}},"id":"1162","type":"TileRenderer"},{"attributes":{},"id":"1153","type":"SaveTool"},{"attributes":{},"id":"1177","type":"Selection"},{"attributes":{"formatter":{"id":"1144","type":"MercatorTickFormatter"},"plot":{"id":"1122","subtype":"Figure","type":"Plot"},"ticker":{"id":"1142","type":"MercatorTicker"}},"id":"1141","type":"MercatorAxis"},{"attributes":{"data_source":{"id":"1119","type":"ColumnDataSource"},"glyph":{"id":"1165","type":"Circle"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"1166","type":"Circle"},"selection_glyph":null,"view":{"id":"1168","type":"CDSView"}},"id":"1167","type":"GlyphRenderer"},{"attributes":{"fill_alpha":{"value":0.05},"fill_color":{"value":"#FF0000"},"line_color":{"value":"#FF0000"},"size":{"field":"sizes","units":"screen"},"x":{"field":"x"},"y":{"field":"y"}},"id":"1165","type":"Circle"},{"attributes":{"callback":null,"end":-7500000,"start":-14000000},"id":"1124","type":"Range1d"},{"attributes":{"source":{"id":"1119","type":"ColumnDataSource"}},"id":"1168","type":"CDSView"},{"attributes":{"attribution":"&amp;copy; &lt;a href=\"https://www.openstreetmap.org/copyright\"&gt;OpenStreetMap&lt;/a&gt; contributors,&amp;copy; &lt;a href=\"https://cartodb.com/attributions\"&gt;CartoDB&lt;/a&gt;","url":"https://tiles.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png"},"id":"1118","type":"WMTSTileSource"},{"attributes":{},"id":"1128","type":"LinearScale"},{"attributes":{"overlay":{"id":"1157","type":"BoxAnnotation"}},"id":"1152","type":"BoxZoomTool"},{"attributes":{"callback":null,"end":6000000,"start":2800000},"id":"1126","type":"Range1d"},{"attributes":{"plot":null,"text":"2018 FAA Enplanements, Grouped by Hubs","text_font_size":{"value":"14pt"}},"id":"1121","type":"Title"},{"attributes":{"dimension":1,"plot":{"id":"1122","subtype":"Figure","type":"Plot"},"ticker":{"id":"1142","type":"MercatorTicker"}},"id":"1149","type":"Grid"},{"attributes":{"below":[{"id":"1132","type":"MercatorAxis"}],"left":[{"id":"1141","type":"MercatorAxis"}],"plot_height":700,"plot_width":1000,"renderers":[{"id":"1132","type":"MercatorAxis"},{"id":"1140","type":"Grid"},{"id":"1141","type":"MercatorAxis"},{"id":"1149","type":"Grid"},{"id":"1157","type":"BoxAnnotation"},{"id":"1162","type":"TileRenderer"},{"id":"1167","type":"GlyphRenderer"}],"title":{"id":"1121","type":"Title"},"toolbar":{"id":"1154","type":"Toolbar"},"x_range":{"id":"1124","type":"Range1d"},"x_scale":{"id":"1128","type":"LinearScale"},"y_range":{"id":"1126","type":"Range1d"},"y_scale":{"id":"1130","type":"LinearScale"}},"id":"1122","subtype":"Figure","type":"Plot"},{"attributes":{"dimension":"lat"},"id":"1144","type":"MercatorTickFormatter"},{"attributes":{"dimension":"lat"},"id":"1142","type":"MercatorTicker"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"size":{"field":"sizes","units":"screen"},"x":{"field":"x"},"y":{"field":"y"}},"id":"1166","type":"Circle"},{"attributes":{},"id":"1130","type":"LinearScale"},{"attributes":{},"id":"1176","type":"UnionRenderers"},{"attributes":{"callback":null,"data":{"airportname":["ABQ","ALB","ANC","ATL","AUS","BMH","BMI","BOS","BSE","BUF","CHT","CLE","CLT","COL","CSP","CVG","DAY","DCA","DEN","DES","DFW","DTW","ELP","FTM","GEG","GRE","GRP","HNL","HRT","IAH","IND","JAX","JFK","KNO","LAS","LAX","LTR","LVL","MAD","MCO","MEM","MIA","MIL","MKC","MSP","MSY","MYT","NAS","OKC","OMH","ORD","PDX","PHL","PHX","PIT","PNS","PRT","PRV","PTL","RCH","RDI","ROC","RTI","SAC","SAN","SAV","SBA","SD","SEA","SFO","SLC","STL","SYR","TPA","TUC","TUL","VAB"],"city":["ALBUQUERQUE","ALBANY","ANCHORAGE","ATLANTA","AUSTIN","BIRMINGHAM","BLOOMINGTON/NORMAL","BOSTON","BOISE","BUFFALO","CHARLESTON","CLEVELAND","CHARLOTTE","COLUMBUS","COLORADO SPRINGS","COVINGTON","DAYTON","Washington DC","DENVER","DES MOINES","DALLAS-FORT WORTH","DETROIT","EL PASO","FORT MYERS","SPOKANE","GREER","GRAND RAPIDS","HONOLULU","WINDSOR LOCKS","HOUSTON","INDIANAPOLIS","JACKSONVILLE","NEW YORK","KNOXVILLE","LAS VEGAS","LOS ANGELES","LITTLE ROCK","LOUISVILLE","MADISON","Orlando","MEMPHIS","MIAMI","MILWAUKEE","KANSAS CITY","MINNEAPOLIS","NEW ORLEANS","MYRTLE BEACH","NASHVILLE","OKLAHOMA CITY","OMAHA","CHICAGO","PORTLAND","PHILADELPHIA","PHOENIX","PITTSBURGH","PENSACOLA","SAN JUAN","PROVIDENCE","PORTLAND","RICHMOND","RALEIGH/DURHAM","ROCHESTER","RENO","SACRAMENTO","SAN ANTONIO","SAVANNAH","SAN LUIS","SAN DIEGO","SEATTLE","SAN FRANCISCO","SALT LAKE CITY","ST LOUIS","SYRACUSE","TAMPA","TUCSON","TULSA","NORFOLK"],"enplanements":[2625434,1420636,2602850,51361889,7560539,1414161,166975,20658847,1903395,2490425,2135645,5123632,22315937,3884617,873606,4189373,869166,36214624,30850329,1313322,40725283,17350937,1565411,4523676,1825071,1106670,1579570,17301276,3259870,27582876,4577991,2998650,68335347,1035287,23633265,55790119,1015982,1814344,1007358,23894016,2183228,40811134,3459174,5759510,18414503,6495501,1266682,7550204,2032713,2410815,50550167,9715450,15517264,22251034,4746742,931698,3792533,2145272,1022934,1976420,7081698,1268453,2021803,5768586,4750359,1309733,226802,12001009,23722254,41599675,12067556,7673987,1103517,11286657,1728657,1460557,1815241],"newgrowth":[36.22155422684402,26.183906363065557,49.006243156539945,46.10883178381543,79.25721962415643,25.986432945046566,31.56400658781255,56.6215384624321,57.561357469153805,31.246032303723258,77.9511576128055,32.10987830507734,49.16349692150502,43.57240366296085,18.093740198670798,47.223653754392366,11.611360775732138,43.59242001242371,49.39784920932286,96.81395727780392,42.23893054346608,32.616440253341935,34.941111311981324,65.20252555664906,46.19288783833615,50.4078903376797,108.05155833549638,31.96333033471057,34.05890418943087,55.01280577123284,35.95120654453012,84.41855501642405,60.10331080926537,43.54096979871282,47.26279250877947,50.69258948883045,30.647688640153074,33.05117441896355,62.92877010953405,58.42788420330848,57.49678915807236,63.35113844177914,26.858059178289384,37.33112712713408,38.821150915666855,46.52318581738345,62.07738011592491,71.4008389707086,29.773116027693035,44.66705242832818,48.29084343084366,56.28294108867834,43.22555832007498,44.72964267638079,33.00729215954859,61.16563521656159,25.694120525780527,22.487964230176875,65.62388189267342,70.71265216907338,70.75407621166562,17.40773997932915,27.120891600220197,55.46449337844665,48.48271467482773,53.92190622058084,52.96558231408894,61.34401699057137,65.4994293543944,58.61847478375732,50.185174197658576,36.007058651519735,24.59889607500383,59.476441961512606,33.078395540584395,28.347609850214678,44.7353271549067],"oldgrowth":[-15.230510679997222,33.157993401319736,35.94227317145016,45.68744571845989,151.23662077605314,0.5250306552220504,-4.045076832898502,53.018952447558455,48.432193509798154,54.97307102342557,174.2616115034372,-16.907342924705087,95.88327093683922,20.208536730655272,-34.28346829853576,-59.53129843507583,-16.69787902893453,65.67085774295256,78.06132932417759,59.954254312407976,28.035921238067473,11.399516481583316,-4.049871160244293,100.86416853195696,23.909957288371725,56.98938764393212,80.37839529152745,2.2447388324181037,20.58113547571895,50.77413186823999,25.815611335079954,33.13800594684425,58.56936790442809,34.29379747623594,62.607376222173414,42.46653920377641,-19.7678596670781,-1.5051010575608188,58.16406476926773,74.64324204415927,-53.628710749411766,61.53617464706158,24.042706698758128,5.590948032550445,29.179011726880628,45.82786006544348,139.3547326471494,93.60142773989902,18.162920437165713,33.8382492547008,28.84824072391316,54.297866055327084,34.262643095611075,44.36971306993217,-53.48924119358561,62.46305470258054,-19.456385773477436,-3.3430939174244676,62.195922483422606,59.18485036904352,50.39124202299925,1.6422013864237528,-35.90890315880703,61.466271588461815,40.57073917161858,88.02793142903083,67.02777143614632,63.99409288281749,89.87401711313103,44.8385239780657,23.03492697361687,-46.70368245952991,5.2034633190204165,57.15865723082681,-1.232580860801152,-15.344064694201426,27.026716854802196],"sizes":[2.625434,1.420636,2.60285,51.361889,7.560539,1.414161,0.166975,20.658847,1.903395,2.490425,2.135645,5.123632,22.315937,3.884617,0.873606,4.189373,0.869166,36.214624,30.850329,1.313322,40.725283,17.350937,1.565411,4.523676,1.825071,1.10667,1.57957,17.301276,3.25987,27.582876,4.577991,2.99865,68.335347,1.035287,23.633265,55.790119,1.015982,1.814344,1.007358,23.894016,2.183228,40.811134,3.459174,5.75951,18.414503,6.495501,1.266682,7.550204,2.032713,2.410815,50.550167,9.71545,15.517264,22.251034,4.746742,0.931698,3.792533,2.145272,1.022934,1.97642,7.081698,1.268453,2.021803,5.768586,4.750359,1.309733,0.226802,12.001009,23.722254,41.599675,12.067556,7.673987,1.103517,11.286657,1.728657,1.460557,1.815241],"x":[-11867577.45874915,-8215597.967317098,-16697721.9791945,-9398466.829243753,-10872560.874531,-9657222.479586922,-9898074.56675048,-7904395.05418027,-12937869.71742625,-8764248.446524058,-8910070.795047091,-9112022.904594555,-9011207.644640855,-9227513.784084497,-11655237.26788191,-9425178.85635319,-9375262.578239871,-8534753.179995645,-11652163.61305279,-10426526.74279461,-10802186.78896857,-9278856.807004817,-11841762.35133028,-9100943.523052545,-13083961.08805203,-9152561.752491774,-9520355.16565659,-17579603.23217776,-8091075.879780668,-10613360.83059617,-9606275.259300536,-9093448.010672465,-8213006.755700031,-9350316.412212886,-12818689.83369974,-13181123.52260367,-10266415.30074503,-9544143.398709176,-9945005.506589578,-9051276.476910282,-10016156.71660945,-8937854.284624245,-9784655.466672523,-10543501.8821618,-10377400.83306593,-10047589.01171816,-8786261.875828426,-9648969.376227831,-10864867.0959534,-10674877.43454633,-9785874.455295414,-13647421.07631279,-8375752.08183815,-12469072.41961499,-8931462.690527866,-9705569.27656838,-7347324.037823442,-7951297.666301168,-7826719.371698512,-8607193.955195567,-8770581.288666965,-8646392.936963933,-13332525.1421611,-13535423.4673803,-10961525.29031825,-9039380.752435789,-13429874.03685982,-13045494.0195668,-13615684.82024226,-13622769.06894802,-12465308.6767092,-10059945.59888453,-8472115.180601733,-9187559.363513947,-12349898.72030464,-10674215.70201773,-8482681.25560286],"y":[4169173.04635281,5273861.633624699,8665922.225672621,3980123.357514911,3528579.09125232,3970392.20790679,4935518.932547119,5215502.766763516,5398271.713291303,5302907.048990363,3881857.686635992,5072919.38378102,4192966.988691584,4865498.264431344,4693892.935110735,4728669.422225738,4851747.666768496,4746874.40277298,4845860.372093213,5091424.365716544,3881671.102225024,5192851.730204165,3738046.619064404,3065640.462561055,6043707.045269154,4149711.684452343,5293851.019038775,2429816.722142165,5151868.031201963,3501549.300443285,4824946.531388239,3567215.477853599,4959374.993510942,4274423.112084457,4311642.491604651,4021083.046209475,4127174.239665809,4604047.576034494,5333287.171798839,3303218.561177117,4169646.894689711,2973757.537356265,5303899.733891647,4764391.912411496,5602959.52707238,3502685.793778039,3985880.910170566,4317762.102185964,4217427.469115924,5057162.044899678,5157582.716043564,5714682.726579058,4847371.152339472,3953089.96400629,4937612.700664459,3564550.598933137,2089044.07496403,5119476.645484664,5410767.460699329,4509758.398873569,4283797.707560241,5330124.109354313,4793419.223136316,4678140.019310378,3443784.056454299,3780069.598220854,4196173.180798367,3859991.087566665,6015819.063672274,4525714.900061289,4981178.836968521,4685738.266389166,5328912.119223619,3245881.749832994,3778558.032653319,4327953.826173573,4424427.09819683]},"selected":{"id":"1177","type":"Selection"},"selection_policy":{"id":"1176","type":"UnionRenderers"}},"id":"1119","type":"ColumnDataSource"},{"attributes":{"plot":{"id":"1122","subtype":"Figure","type":"Plot"},"ticker":{"id":"1133","type":"MercatorTicker"}},"id":"1140","type":"Grid"},{"attributes":{"dimension":"lon"},"id":"1135","type":"MercatorTickFormatter"},{"attributes":{},"id":"1151","type":"WheelZoomTool"},{"attributes":{"callback":null,"tooltips":[["airport","@airportname"],["city","@city"],["enplanements","@enplanements{0,0}"],["Forecasted 20-Year Growth Rate","@newgrowth{0.1f}%"],["Historical 20-Year Growth Rate","@oldgrowth{0.1f}%"]]},"id":"1120","type":"HoverTool"}],"root_ids":["1122"]},"title":"Bokeh Application","version":"1.0.4"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1234').textContent;
+                  var render_items = [{"docid":"f0671db6-1b05-424a-9f97-8b7e3762c7d4","roots":{"1122":"d7132059-fcfe-4643-b45f-3f7fc83f38f9"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
